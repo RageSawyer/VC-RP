@@ -6,9 +6,13 @@ Merhaba, ben Emre bilen bilir bu mod 2020 zamanları @Rubiacce tarafından payla
 - SQL Verileri düzeltildi.
   * Girdi Çıktı verileri düzensiz ve hatalı çalışıyordu elimizden geleni yaptık.
 - SQL Hataları düzeltildi.
-- Bir çok plugin güncellendi Pawn.CMD/Pawn.Raknet/Streamer/ vs.. 
+  * SQL İmport/Dump yapmamıza izin vermeyen tanımlar düzeltildi kısaca güncellendi
+- Bir çok plugin güncellendi Pawn.CMD/Pawn.Raknet/Streamer/ vs..
+  * 2020 tarihinde güncellendi siz yinede güncelleyin. 
 - Trucker mesleği düzeltildi.
+  * MoneyFarming yapılabilecek açıklar düzeltildi.
 - mSelection menüleri hatalıydı düzeltildi.
+  * Sunucuya kayıt olduğumuzda mSelection ile skin seçmeniz gerekiyor buda Scriptfiles klasöründeki bir .txt den çekiliyor bu veriyi çekemediği için sorunluydu düzeltildi.
 
 
 
