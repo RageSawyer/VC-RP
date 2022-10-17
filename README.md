@@ -14,11 +14,13 @@ Merhaba, ben Emre bilen bilir bu mod 2020 zamanları @Rubiacce tarafından payla
 - mSelection menüleri hatalıydı düzeltildi.
   * Sunucuya kayıt olduğumuzda mSelection ile skin seçmeniz gerekiyor buda Scriptfiles klasöründeki bir .txt den çekiliyor bu veriyi çekemediği için sorunluydu düzeltildi.
 
+```
+Daha sayamadığım birçok hata düzeltildi tabi bu güncellemeler 2020 yılı içerisinde yapıldı bunuda göz önünde bulundurun derim.
+```
+
+
 <details> <summary>Resimler</summary> 
 
  ![alt text](https://cdn.discordapp.com/attachments/963569399426580500/1031520020397834240/unknown.png)
 
 </details>
-```
-Daha sayamadığım birçok hata düzeltildi tabi bu güncellemeler 2020 yılı içerisinde yapıldı bunuda göz önünde bulundurun derim.
-```
