@@ -3,11 +3,11 @@ Merhaba, ben Emre bilen bilir bu mod 2020 zamanları @Rubiacce tarafından payla
 
 # Fixlenen hatalar
 
-SQL Verileri düzeltildi.
-SQL Hataları düzeltildi.
-Bir çok plugin güncellendi Pawn.CMD/Pawn.Raknet/Streamer/ vs.. 
-Trucker mesleği düzeltildi.
-mSelection menüleri hatalıydı düzeltildi.
+-SQL Verileri düzeltildi.
+-SQL Hataları düzeltildi.
+-Bir çok plugin güncellendi Pawn.CMD/Pawn.Raknet/Streamer/ vs.. 
+-Trucker mesleği düzeltildi.
+-mSelection menüleri hatalıydı düzeltildi.
 
 Daha sayamadığım birçok hata düzeltildi tabi bu güncellemeler 2020 yılı içerisinde yapıldı bunuda göz önünde bulundurun derim.
 
