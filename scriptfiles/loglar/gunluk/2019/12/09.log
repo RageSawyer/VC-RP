@@ -1,0 +1,30 @@
+[09/12/2019, 01:42] 002(25.4.91.44) sunucuya giriþ yaptý.
+[09/12/2019, 01:42] 001(127.0.0.1) sunucuya giriþ yaptý.
+[09/12/2019, 01:43] Nakroth Lothbrook(HESAP ID: 2) teleport hilesi kullanýyor olabilir. (#019)
+[09/12/2019, 01:43] Berkay Test(HESAP ID: 1) teleport hilesi kullanýyor olabilir. (#019)
+[09/12/2019, 01:43] (komut) Berkay_Test(2): /adminyap 0 7
+[09/12/2019, 01:43] NULL(2), Nakroth_Lothbrook(1) adlý kiþinin admin levelini 7 yaptý.
+[09/12/2019, 01:43] (komut) Berkay_Test(2): /adminyap 1 7
+[09/12/2019, 01:43] NULL(2), Berkay_Test(2) adlý kiþinin admin levelini 7 yaptý.
+[09/12/2019, 01:43] (komut) Berkay_Test(2): /anick 0 Batuhan
+[09/12/2019, 01:43] NULL(2), Nakroth_Lothbrook(1) adlý kiþinin yetkili ismini Batuhan yaptý.
+[09/12/2019, 01:43] (komut) Berkay_Test(2): /anick 1 Berkay
+[09/12/2019, 01:43] Berkay(2), Berkay_Test(2) adlý kiþinin yetkili ismini Berkay yaptý.
+[09/12/2019, 01:43] (komut) Berkay_Test(2): /karakter
+[09/12/2019, 01:44] (komut) Nakroth_Lothbrook(1): /karakter
+[09/12/2019, 01:44] (komut) Berkay_Test(2): /asilahver 1 31
+[09/12/2019, 01:44] (komut) Berkay_Test(2): /oyuncuduzenle 1
+[09/12/2019, 01:44] (komut) Berkay_Test(2): /oyuncuduzenle 1 oynamasaati 100
+[09/12/2019, 01:44] Berkay, Berkay_Test(2) adlý kiþinin oynama saatini deðiþtirdi. (100)
+[09/12/2019, 01:45] (komut) Berkay_Test(2): /karakter
+[09/12/2019, 01:45] (komut) Berkay_Test(2): /asilahver 1 31
+[09/12/2019, 01:45] Berkay(2), Berkay_Test(2) adlý kiþiye M4 model silah verdi.
+[09/12/2019, 01:45] Nakroth_Lothbrook(1), Berkay_Test(2) tarafýndan öldürüldü. (sebep: 31)
+[09/12/2019, 01:45] (komut) Berkay_Test(2): /canlandir 0
+[09/12/2019, 01:45] Berkay(2), Nakroth_Lothbrook(1) adlý kiþiyi yaralý durumdan çýkardý.
+[09/12/2019, 01:45] (komut) Berkay_Test(2): /setskin 1 29
+[09/12/2019, 01:45] Berkay(2), Berkay_Test(2) adlý kiþinin kýyafetini 29 olarak deðiþtirdi.
+[09/12/2019, 01:45] (komut) Berkay_Test(2): /setskin 1 2
+[09/12/2019, 01:45] Berkay(2), Berkay_Test(2) adlý kiþinin kýyafetini 2 olarak deðiþtirdi.
+[09/12/2019, 01:45] Berkay_Test(255.255.255.255) oyundan çýkýþ yaptý.
+[09/12/2019, 01:46] Nakroth_Lothbrook(255.255.255.255) oyundan çýkýþ yaptý.

@@ -1,0 +1,1 @@
+[16/11/2019, 04:10] NULL listeden araç sildi. (SID: 1 | Model: Sultan)

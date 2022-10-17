@@ -1,0 +1,8 @@
+[19/01/2020, 02:44] Berkay(3) bir obje oluþturdu. (0)
+[19/01/2020, 02:44] Berkay(3) bir objenin modelini deðiþtirdi. (ID: 1 | Model: 972)
+[19/01/2020, 02:44] (3) bir obje sildi. (SQLID: 1)
+[19/01/2020, 02:47] Berkay(3) bir obje oluþturdu. (0)
+[19/01/2020, 02:47] Berkay(3) bir objenin modelini deðiþtirdi. (ID: 2 | Model: 1680)
+[19/01/2020, 02:47] Berkay(3) bir objenin modelini deðiþtirdi. (ID: 2 | Model: 1676)
+[19/01/2020, 02:47] Berkay(3) bir objenin modelini deðiþtirdi. (ID: 2 | Model: 1686)
+[19/01/2020, 02:52] (3) bir obje sildi. (SQLID: 2)

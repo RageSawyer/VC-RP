@@ -1,0 +1,106 @@
+[01/12/2019, 06:05] 001(127.0.0.1) sunucuya giriþ yaptý.
+[01/12/2019, 06:06] (komut) Veronica_Renfrow(2): /telefon
+[01/12/2019, 06:06] [cmd_me] Veronica_Renfrow(2) elini cebine götürür, telefonunu çýkarýr.
+[01/12/2019, 06:06] (komut) Veronica_Renfrow(2): /asilahver 0 31
+[01/12/2019, 06:06] viathegod(2), Veronica_Renfrow(2) adlý kiþiye M4 model silah verdi.
+[01/12/2019, 06:06] (komut) Veronica_Renfrow(2): /asilahver 0 24
+[01/12/2019, 06:06] viathegod(2), Veronica_Renfrow(2) adlý kiþiye Desert Eagle model silah verdi.
+[01/12/2019, 06:06] (komut) Veronica_Renfrow(2): /aparaduzenle 0
+[01/12/2019, 06:06] (komut) Veronica_Renfrow(2): /aparaduzenle 0 24
+[01/12/2019, 06:06] viathegod(2), Veronica_Renfrow(2) adlý kiþinin parasýný $24 olarak düzenledi.
+[01/12/2019, 06:06] (komut) Veronica_Renfrow(2): /aparaduzenle 0 500
+[01/12/2019, 06:06] viathegod(2), Veronica_Renfrow(2) adlý kiþinin parasýný $500 olarak düzenledi.
+[01/12/2019, 06:06] (komut) Veronica_Renfrow(2): /aparaduzenle 0 -100
+[01/12/2019, 06:06] (komut) Veronica_Renfrow(2): /aparaduzenle 0 0
+[01/12/2019, 06:06] (komut) Veronica_Renfrow(2): /aparaduzenle 0 1
+[01/12/2019, 06:06] viathegod(2), Veronica_Renfrow(2) adlý kiþinin parasýný $1 olarak düzenledi.
+[01/12/2019, 06:06] (komut) Veronica_Renfrow(2): /aparaduzenle 0 15000
+[01/12/2019, 06:06] viathegod(2), Veronica_Renfrow(2) adlý kiþinin parasýný $15,000 olarak düzenledi.
+[01/12/2019, 06:13] (komut) Veronica_Renfrow(2): /restart 1 test
+[01/12/2019, 06:13] 001(127.0.0.1) oyundan çýkýþ yaptý.
+[01/12/2019, 06:14] 001(127.0.0.1) sunucuya giriþ yaptý.
+[01/12/2019, 06:14] (komut) Biddy_Boelter(1): /KARAKTER
+[01/12/2019, 06:14] (komut) Biddy_Boelter(1): /git banka
+[01/12/2019, 06:14] (komut) Biddy_Boelter(1): /islemler
+[01/12/2019, 06:14] (komut) Biddy_Boelter(1): /banka
+[01/12/2019, 06:14] (komut) Biddy_Boelter(1): /telefon
+[01/12/2019, 06:14] [cmd_me] Biddy_Boelter(1) elini cebine götürür, telefonunu çýkarýr.
+[01/12/2019, 06:15] (komut) Biddy_Boelter(1): /git ls
+[01/12/2019, 06:15] (komut) Biddy_Boelter(1): /asilahver 0 24
+[01/12/2019, 06:15] viathegod(1), Biddy_Boelter(1) adlý kiþiye Desert Eagle model silah verdi.
+[01/12/2019, 06:16] 390(127.0.0.1) sunucuya giriþ yaptý.
+[01/12/2019, 06:16] 390(255.255.255.255) oyundan çýkýþ yaptý.
+[01/12/2019, 06:16] 390(127.0.0.1) sunucuya giriþ yaptý.
+[01/12/2019, 06:17] (komut) Biddy_Boelter(1): /CEK 1
+[01/12/2019, 06:17] viathegod(1), Kaitlyn_Rogers(1333) adlý kiþiyi yanýna çekti.
+[01/12/2019, 06:17] (komut) Biddy_Boelter(1): /adminyap 1 7
+[01/12/2019, 06:17] viathegod(1), Kaitlyn_Rogers(1333) adlý kiþinin admin levelini 7 yaptý.
+[01/12/2019, 06:17] (komut) Biddy_Boelter(1): /anick 1 Berkay
+[01/12/2019, 06:17] viathegod(1), Kaitlyn_Rogers(1333) adlý kiþinin yetkili ismini Berkay yaptý.
+[01/12/2019, 06:17] (komut) Kaitlyn_Rogers(1333): /git 1
+[01/12/2019, 06:17] (komut) Kaitlyn_Rogers(1333): /git 0
+[01/12/2019, 06:17] Berkay(1333), Biddy_Boelter(1) adlý kiþiye ýþýnlandý.
+[01/12/2019, 06:17] (komut) Biddy_Boelter(1): /izle 0
+[01/12/2019, 06:18] (komut) Biddy_Boelter(1): /izle 1
+[01/12/2019, 06:18] (komut) Biddy_Boelter(1): /izle bitir
+[01/12/2019, 06:18] (komut) Biddy_Boelter(1): /cek 1
+[01/12/2019, 06:18] viathegod(1), Kaitlyn_Rogers(1333) adlý kiþiyi yanýna çekti.
+[01/12/2019, 06:18] (komut) Kaitlyn_Rogers(1333): /git 1
+[01/12/2019, 06:18] (komut) Kaitlyn_Rogers(1333): /git 0
+[01/12/2019, 06:18] Berkay(1333), Biddy_Boelter(1) adlý kiþiye ýþýnlandý.
+[01/12/2019, 06:18] (komut) Biddy_Boelter(1): /git 1
+[01/12/2019, 06:18] viathegod(1), Kaitlyn_Rogers(1333) adlý kiþiye ýþýnlandý.
+[01/12/2019, 06:18] (komut) Biddy_Boelter(1): /sethp 1 0
+[01/12/2019, 06:18] viathegod(1), Kaitlyn_Rogers(1333) adlý kiþinin canýný 0 olarak deðiþtirdi.
+[01/12/2019, 06:18] (komut) Biddy_Boelter(1): /sethp 1 50
+[01/12/2019, 06:18] viathegod(1), Kaitlyn_Rogers(1333) adlý kiþinin canýný 50 olarak deðiþtirdi.
+[01/12/2019, 06:18] (komut) Biddy_Boelter(1): /sethp 1 100
+[01/12/2019, 06:18] viathegod(1), Kaitlyn_Rogers(1333) adlý kiþinin canýný 100 olarak deðiþtirdi.
+[01/12/2019, 06:19] (komut) Biddy_Boelter(1): /ymac
+[01/12/2019, 06:19] [cmd_ame] Biddy_Boelter(1) anahtarý saat yönünde çevirir ve aracýn motorunu açmaya çalýþýr.
+[01/12/2019, 06:19] Kaitlyn_Rogers(255.255.255.255) oyundan çýkýþ yaptý.
+[01/12/2019, 06:20] (komut) Biddy_Boelter(1): /atm
+[01/12/2019, 06:20] Biddy_Boelter(1), banka hesabýndan $500 çekti.
+[01/12/2019, 06:20] (komut) Biddy_Boelter(1): /atm
+[01/12/2019, 06:20] Biddy_Boelter(1), banka hesabýna $15,000 yatýrdý.
+[01/12/2019, 06:20] (komut) Biddy_Boelter(1): /atm
+[01/12/2019, 06:20] (komut) Biddy_Boelter(1): /atm
+[01/12/2019, 06:20] Biddy_Boelter(1), banka hesabýndan $261,000 çekti.
+[01/12/2019, 06:20] (komut) Biddy_Boelter(1): /oocmarket
+[01/12/2019, 06:21] Biddy_Boelter(1) marketten Baþlangýç Paketi satýn aldý.
+[01/12/2019, 06:21] (komut) Biddy_Boelter(1): /oocmarket
+[01/12/2019, 06:21] (komut) Biddy_Boelter(1): /oocmarket
+[01/12/2019, 06:21] Biddy_Boelter(1) marketten Ýsim Deðiþikliði satýn aldý.
+[01/12/2019, 06:21] (komut) Biddy_Boelter(1): /oocmarket
+[01/12/2019, 06:21] Biddy_Boelter(1) marketten Soyadý Kilitle satýn aldý.
+[01/12/2019, 06:21] (komut) Biddy_Boelter(1): /oocmarket
+[01/12/2019, 06:21] Biddy_Boelter(1) marketten Karakter Sýfýrlama satýn aldý.
+[01/12/2019, 06:21] (komut) Biddy_Boelter(1): /oocmarket
+[01/12/2019, 06:21] Biddy_Boelter(1) Karakter Sýfýrlama ürününü kullandý.
+[01/12/2019, 06:21] (komut) Biddy_Boelter(1): /oocmarket
+[01/12/2019, 06:21] (komut) Biddy_Boelter(1): /oocmarket
+[01/12/2019, 06:21] (komut) Biddy_Boelter(1): /oocmarket
+[01/12/2019, 06:21] (komut) Biddy_Boelter(1): /oocmarket
+[01/12/2019, 06:21] (komut) Biddy_Boelter(1): /oocmarket
+[01/12/2019, 06:21] Biddy_Boelter(1) marketten Ek Araç Slotu satýn aldý.
+[01/12/2019, 06:21] (komut) Biddy_Boelter(1): /oocmarket
+[01/12/2019, 06:22] (komut) Biddy_Boelter(1): /git bina 0
+[01/12/2019, 06:22] (komut) Biddy_Boelter(1): /dmv
+[01/12/2019, 06:22] (komut) Biddy_Boelter(1): /dmv
+[01/12/2019, 06:22] (komut) Biddy_Boelter(1): /git bina 2
+[01/12/2019, 06:22] (komut) Biddy_Boelter(1): /git bina 1
+[01/12/2019, 06:22] (komut) Biddy_Boelter(1): /git bina 3
+[01/12/2019, 06:22] (komut) Biddy_Boelter(1): /git bina 4
+[01/12/2019, 06:22] (komut) Biddy_Boelter(1): /islemler
+[01/12/2019, 06:22] (komut) Biddy_Boelter(1): /islemler
+[01/12/2019, 06:23] (komut) Biddy_Boelter(1): /islemler
+[01/12/2019, 06:23] (komut) Biddy_Boelter(1): /islemler
+[01/12/2019, 06:23] (komut) Biddy_Boelter(1): /islemler
+[01/12/2019, 06:23] (komut) Biddy_Boelter(1): /aliste
+[01/12/2019, 06:23] (komut) Biddy_Boelter(1): /asil
+[01/12/2019, 06:23] (komut) Biddy_Boelter(1): /aracsil 11
+[01/12/2019, 06:23] viathegod(1) bir aracý sildi. (SAHIP: 26 / Model: Yok)
+[01/12/2019, 06:23] (komut) Biddy_Boelter(1): /aracsil 4
+[01/12/2019, 06:23] viathegod(1) bir aracý sildi. (SAHIP: 22 / Model: NRG-500)
+[01/12/2019, 06:23] (komut) Biddy_Boelter(1): /avratlar
+[01/12/2019, 06:23] Biddy_Boelter(255.255.255.255) oyundan çýkýþ yaptý.

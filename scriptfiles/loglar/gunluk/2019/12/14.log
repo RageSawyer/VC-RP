@@ -1,0 +1,30 @@
+[14/12/2019, 07:20] 001(127.0.0.1) sunucuya giriþ yaptý.
+[14/12/2019, 07:20] (komut) Berkay_Test(2): /KARAKTER
+[14/12/2019, 07:21] (komut) Berkay_Test(2): /git ls
+[14/12/2019, 07:21] (komut) Berkay_Test(2): /telefon
+[14/12/2019, 07:21] (komut) Berkay_Test(2): /git isyeri 0
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /aisyeri olustur
+[14/12/2019, 07:22] Berkay(2), bir iþyeri oluþturdu. (SID: 0)
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /aisyeri 0 sahip 0
+[14/12/2019, 07:22] Berkay(2), iþyeri sahibini deðiþtirdi. (SID: 1 | Sahip: 66)
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /aisyeri 0 durum 0
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /aisyeri 0 durum 1
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /aisyeri 0 tur 2
+[14/12/2019, 07:22] Berkay(2), iþyeri türünü Cafe & Restaurant yaptý. (SID: 1)
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /aisyeri 0 tur 
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /aisyeri 0 tur 3
+[14/12/2019, 07:22] Berkay(2), iþyeri türünü Elektronik yaptý. (SID: 1)
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /satinal
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /aparaver 0 50000
+[14/12/2019, 07:22] Berkay(2), Berkay_Test(2) adlý kiþiye $50,000 verdi.
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /aisyeri
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /satinal
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /satinal
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /telfeon
+[14/12/2019, 07:22] (komut) Berkay_Test(2): /telefon
+[14/12/2019, 07:22] [cmd_me] Berkay_Test(2) elini cebine götürür, telefonunu çýkarýr.
+[14/12/2019, 07:23] (komut) Berkay_Test(2): /telefon
+[14/12/2019, 07:23] [cmd_me] Berkay_Test(2) elini cebine götürür, telefonunu çýkarýr.
+[14/12/2019, 07:23] (komut) Berkay_Test(2): /abina
+[14/12/2019, 07:23] (komut) Berkay_Test(2): /karakter
+[14/12/2019, 07:23] Berkay_Test(255.255.255.255) oyundan çýkýþ yaptý.

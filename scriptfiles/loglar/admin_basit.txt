@@ -1,0 +1,221 @@
+[13/06/2019, 02:13] Berkay(2), Alexdrao_Hamsolo(773) adlý kiþiyi yaralý durumdan çýkardý.
+[07/07/2019, 03:23] Berkay(3), Michael_Sherwood(3) adlý kiþinin VW'sini 0 olarak deðiþtirdi.
+[22/07/2019, 16:45] Berkay(1) tüm araçlarý respawnladý. (576 adet)
+[16/11/2019, 04:11] Berkay(1), Biddy_Boelter(1) adlý kiþiyi yaralý durumdan çýkardý.
+[16/11/2019, 04:11] Berkay(1), Marc_Delgado(1404) adlý kiþiyi yaralý durumdan çýkardý.
+[16/11/2019, 04:12] NULL(1404), Marc_Delgado(1404) adlý kiþiyi yaralý durumdan çýkardý.
+[16/11/2019, 04:16] NULL(1404), Sucre_Zaragoza(32) adlý kiþiyi yaralý durumdan çýkardý.
+[16/11/2019, 04:21] Darly(32), Sucre_Zaragoza(32) adlý kiþiyi yaralý durumdan çýkardý.
+[16/11/2019, 04:30] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[18/11/2019, 23:24] Berkay(1), Biddy_Boelter(1) adlý kiþiyi yaralý durumdan çýkardý.
+[18/11/2019, 23:32] Berkay(1), Sucre_Zaragoza(32) adlý kiþiyi yaralý durumdan çýkardý.
+[18/11/2019, 23:32] Orkun(17), Sucre_Zaragoza(32) adlý kiþiyi yaralý durumdan çýkardý.
+[18/11/2019, 23:33] Orkun(17), Sucre_Zaragoza(32) adlý kiþiyi yaralý durumdan çýkardý.
+[18/11/2019, 23:40] 666(1404), Addy_Morrison(28) adlý kiþiyi yaralý durumdan çýkardý.
+[18/11/2019, 23:44] Darly(32), Addy_Morrison(28) adlý kiþiyi tokatladý.
+[19/11/2019, 02:59] Berkay(3), Michael_Sherwood(3) adlý kiþiyi yaralý durumdan çýkardý.
+[19/11/2019, 03:10] Berkay(1), Biddy_Boelter(1) adlý kiþiyi yaralý durumdan çýkardý.
+[19/11/2019, 22:24] 666(1404), Marc_Delgado(1404) adlý kiþiyi yaralý durumdan çýkardý.
+[19/11/2019, 22:40] Darly(32), Alexander_Mahone(32) adlý kiþiyi yaralý durumdan çýkardý.
+[19/11/2019, 22:40] Darly(32), Orkun(17) adlý kiþiyi LS gönderdi.
+[19/11/2019, 22:40] 666(1404), Alexander_Mahone(32) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Alexander_Mahone(32) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Alexander_Mahone(32) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Alexander_Mahone(32) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Alexander_Mahone(32) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Alexander_Mahone(32) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Alexander_Mahone(32) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Alexander_Mahone(32) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Alexander_Mahone(32) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Alexander_Mahone(32) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Alexander_Mahone(32) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Orkun(17) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Diaz_Cooper(1404) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Diaz_Cooper(1404) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] Orkun(17), Diaz_Cooper(1404) adlý kiþiyi tokatladý.
+[19/11/2019, 22:40] 666(1404), Alexander_Mahone(32) adlý kiþiyi yaralý durumdan çýkardý.
+[19/11/2019, 22:43] Orkun(17), Allen_Hox(17) adlý kiþiyi yaralý durumdan çýkardý.
+[19/11/2019, 22:44] Darly(32), Alexander_Mahone(32) adlý kiþiyi yaralý durumdan çýkardý.
+[19/11/2019, 22:44] Darly(32), Alexander_Mahone(32) adlý kiþiyi yaralý durumdan çýkardý.
+[19/11/2019, 22:44] Darly(32), Alexander_Mahone(32) adlý kiþiyi yaralý durumdan çýkardý.
+[19/11/2019, 22:46] 666(1404), Alexander_Mahone(32) adlý kiþiyi yaralý durumdan çýkardý.
+[23/11/2019, 20:24] Orkun(17), Volkov_Eveshka(2076) adlý kiþiyi yaralý durumdan çýkardý.
+[23/11/2019, 20:25] Orkun(17), Volkov_Eveshka(2076) adlý kiþiyi tokatladý.
+[23/11/2019, 20:25] Orkun(17), Volkov_Eveshka(2076) adlý kiþiyi tokatladý.
+[23/11/2019, 20:25] Orkun(17), Volkov_Eveshka(2076) adlý kiþiyi tokatladý.
+[23/11/2019, 20:25] Orkun(17), Volkov_Eveshka(2076) adlý kiþiyi tokatladý.
+[23/11/2019, 20:25] Orkun(17), Volkov_Eveshka(2076) adlý kiþiyi tokatladý.
+[23/11/2019, 20:25] Orkun(17), Volkov_Eveshka(2076) adlý kiþiyi tokatladý.
+[23/11/2019, 20:25] Orkun(17), Volkov_Eveshka(2076) adlý kiþiyi tokatladý.
+[23/11/2019, 20:25] viathegod(3), Michael_Sherwood(3) adlý kiþiyi yaralý durumdan çýkardý.
+[23/11/2019, 20:26] 666(1404), Volkov_Eveshka(2076) adlý kiþiyi yaralý durumdan çýkardý.
+[23/11/2019, 20:27] Orkun(17), Volkov_Eveshka(2076) adlý kiþiyi yaralý durumdan çýkardý.
+[23/11/2019, 20:28] 666(1404), Diaz_Cooper(1404) adlý kiþiyi yaralý durumdan çýkardý.
+[23/11/2019, 20:28] 666(1404), Diaz_Cooper(1404) adlý kiþiyi yaralý durumdan çýkardý.
+[23/11/2019, 20:30] 666(1404), Volkov_Eveshka(2076) adlý kiþiyi yaralý durumdan çýkardý.
+[23/11/2019, 20:30] viathegod(3), Michael_Sherwood(3) adlý kiþiyi yaralý durumdan çýkardý.
+[23/11/2019, 20:47] kelly(54), Alexander_Mahone(32) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:00] 666(1404), Jesus_Cordeza(709) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:00] 666(1404), Diaz_Cooper(1404) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:00] Nazým(709), Jesus_Cordeza(709) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:01] Nazým(709), Jesus_Cordeza(709) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:01] Deneme2(15), Jesus_Cordeza(709) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:02] Deneme2(15), Jesus_Cordeza(709) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:02] Nazým(709), Jesus_Cordeza(709) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:02] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:02] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:03] Nazým(709), Jesus_Cordeza(709) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:03] Nazým(709), Jesus_Cordeza(709) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:03] Nazým(709), Jesus_Cordeza(709) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:03] 666(1404), Jesus_Cordeza(709) adlý kiþiyi LS gönderdi.
+[24/11/2019, 00:03] 666(1404), Eleanor_Grint(15) adlý kiþiyi LS gönderdi.
+[24/11/2019, 00:07] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:09] Deneme2(15), Brian_Warnock(42) adlý kiþiyi tokatladý.
+[24/11/2019, 00:09] 666(1404), Eleanor_Grint(15) adlý kiþiyi tokatladý.
+[24/11/2019, 00:12] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:12] 666(1404), Diaz_Cooper(1404) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:12] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:13] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:13] 666(1404), Diaz_Cooper(1404) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:13] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:13] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:13] 666(1404), Diaz_Cooper(1404) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:14] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:14] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:14] 666(1404), Diaz_Cooper(1404) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:14] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:14] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:14] 666(1404), Diaz_Cooper(1404) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:14] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:14] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:15] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:15] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:15] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:16] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi yaralý durumdan çýkardý.
+[24/11/2019, 00:20] Espinoza(709), Jesus_Cordeza(709) adlý kiþiyi yaralý durumdan çýkardý.
+[26/11/2019, 23:41] viathegod(1), Allen_Hox(17) adlý kiþiyi SF gönderdi.
+[26/11/2019, 23:41] viathegod(1), Allen_Hox(17) adlý kiþiyi SF gönderdi.
+[26/11/2019, 23:43] Darly(32), Allen_Hox(17) adlý kiþiyi SF gönderdi.
+[26/11/2019, 23:43] Darly(32), Allen_Hox(17) adlý kiþiyi SF gönderdi.
+[26/11/2019, 23:49] Orkun(17), Brian_Warnock(42) adlý kiþiyi yaralý durumdan çýkardý.
+[26/11/2019, 23:49] Orkun(17), Allen_Hox(17) adlý kiþiyi yaralý durumdan çýkardý.
+[26/11/2019, 23:51] Orkun(17), Yusuf(42) adlý kiþiyi tokatladý.
+[26/11/2019, 23:51] Orkun(17), Yusuf(42) adlý kiþiyi tokatladý.
+[26/11/2019, 23:51] Orkun(17), Yusuf(42) adlý kiþiyi tokatladý.
+[26/11/2019, 23:51] Orkun(17), Yusuf(42) adlý kiþiyi tokatladý.
+[26/11/2019, 23:51] Orkun(17), Yusuf(42) adlý kiþiyi tokatladý.
+[26/11/2019, 23:51] Orkun(17), Yusuf(42) adlý kiþiyi tokatladý.
+[26/11/2019, 23:51] Orkun(17), Yusuf(42) adlý kiþiyi tokatladý.
+[26/11/2019, 23:51] Orkun(17), Yusuf(42) adlý kiþiyi tokatladý.
+[26/11/2019, 23:51] Orkun(17), Yusuf(42) adlý kiþiyi tokatladý.
+[26/11/2019, 23:55] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[26/11/2019, 23:56] Orkun(17), Alexander_Mahone(32) adlý kiþiyi tokatladý.
+[27/11/2019, 03:40] viathegod(1), Batuhan_Test(32) adlý kiþiyi yaralý durumdan çýkardý.
+[27/11/2019, 03:41] viathegod(1), Batuhan_Test(32) adlý kiþiyi yaralý durumdan çýkardý.
+[27/11/2019, 04:07] viathegod(1), Biddy_Boelter(1) adlý kiþiyi yaralý durumdan çýkardý.
+[09/12/2019, 01:45] Berkay(2), Nakroth_Lothbrook(1) adlý kiþiyi yaralý durumdan çýkardý.
+[15/01/2020, 06:00] Berkay(3), Clara_Sherwood(3) adlý kiþiyi yaralý durumdan çýkardý.
+[15/01/2020, 07:56] Berkay(3), Clara_Sherwood(3) adlý kiþiyi yaralý durumdan çýkardý.
+[25/01/2020, 04:08] via(10), Clara_Sherwood(10) adlý kiþiyi yaralý durumdan çýkardý.
+[25/01/2020, 04:08] via(10), Clara_Sherwood(10) adlý kiþiyi yaralý durumdan çýkardý.
+[30/01/2020, 05:21] via(10), Clara_Sherwood(10) adlý kiþinin VW'sini 1 olarak deðiþtirdi.
+[23/02/2020, 04:55] via(10), James_Sherwood(10) adlý kiþiyi yaralý durumdan çýkardý.
+[26/09/2022, 15:59] Yok(1), Rage_Sawyer(1) adlý kiþinin VW'sini 1 olarak deðiþtirdi.
+[26/09/2022, 15:59] Yok(1), Rage_Sawyer(1) adlý kiþinin VW'sini 0 olarak deðiþtirdi.

@@ -1,0 +1,154 @@
+[13/06/2019, 02:15] Berkay(2), Dennis_Karkdjik(40) adlý kiþinin admin levelini 7 yaptý.
+[13/06/2019, 02:15] Berkay(2), Dennis_Karkdjik(40) adlý kiþinin yetkili ismini mert yaptý.
+[07/07/2019, 04:44] Berkay(3), Michael_Sherwood(3) adlý kiþinin admin levelini 8 yaptý.
+[01/09/2019, 15:34] Berkay(1), Biddy_Boelter(1) adlý kiþinin admin levelini 6 yaptý.
+[01/09/2019, 15:37] Berkay(1), Biddy_Boelter(1) adlý kiþinin admin levelini 7 yaptý.
+[16/11/2019, 03:55] Berkay(1), Sucre_Zaragoza(32) adlý kiþinin admin levelini 6 yaptý.
+[16/11/2019, 04:01] Berkay(1) sunucudaki herkese $555 verdi.
+[16/11/2019, 04:01] Berkay(1) sunucudaki herkese $50 YNP verdi.
+[16/11/2019, 04:05] Berkay(1) sunucudaki herkese can verdi. (3 kiþi)
+[16/11/2019, 04:05] Berkay(1) sunucudaki herkese zýrh verdi. (3 kiþi)
+[16/11/2019, 04:06] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye 150TL bakiye verdi.
+[16/11/2019, 04:09] Berkay(1), Marc_Delgado(1404) adlý kiþinin admin levelini 6 yaptý.
+[16/11/2019, 04:10] Darly(32) sunucudaki herkese $1 verdi.
+[16/11/2019, 04:11] Berkay(1), Allen_Hox(17) adlý kiþinin admin levelini 6 yaptý.
+[16/11/2019, 04:14] NULL(1404) sunucudaki herkese zýrh verdi. (4 kiþi)
+[16/11/2019, 04:18] Niyazi(1404), Marc_Delgado(1404) adlý kiþinin yetkili ismini Niyazi yaptý.
+[16/11/2019, 04:18] Yusuf(1404), Marc_Delgado(1404) adlý kiþinin yetkili ismini Yusuf yaptý.
+[16/11/2019, 04:20] Orkun(17) sunucudaki herkese zýrh verdi. (4 kiþi)
+[16/11/2019, 04:21] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye $750,000 verdi.
+[18/11/2019, 23:27] 666(1404), Marc_Delgado(1404) adlý kiþinin yetkili ismini 666 yaptý.
+[18/11/2019, 23:34] Darly(32), Orkun(17) adlý kiþinin admin levelini 2 yaptý.
+[18/11/2019, 23:34] Darly(32), 666(1404) adlý kiþinin admin levelini 2 yaptý.
+[18/11/2019, 23:34] Darly(32), 666(1404) adlý kiþinin admin levelini 3 yaptý.
+[18/11/2019, 23:34] Darly(32), 666(1404) adlý kiþinin admin levelini 4 yaptý.
+[18/11/2019, 23:35] Darly(32), 666(1404) adlý kiþinin admin levelini 5 yaptý.
+[18/11/2019, 23:35] Darly(32), 666(1404) adlý kiþinin admin levelini 6 yaptý.
+[18/11/2019, 23:35] Darly(32), 666(1404) adlý kiþinin admin levelini 5 yaptý.
+[18/11/2019, 23:36] Darly(32), 666(1404) adlý kiþinin admin levelini 3 yaptý.
+[18/11/2019, 23:53] Darly(32), Allen_Hox(17) adlý kiþinin admin levelini 1 yaptý.
+[18/11/2019, 23:53] Darly(32), Orkun(17) adlý kiþinin admin levelini 2 yaptý.
+[18/11/2019, 23:53] Darly(32), Orkun(17) adlý kiþinin admin levelini 3 yaptý.
+[18/11/2019, 23:53] Darly(32), Orkun(17) adlý kiþinin admin levelini 4 yaptý.
+[18/11/2019, 23:53] Darly(32), Orkun(17) adlý kiþinin admin levelini 5 yaptý.
+[18/11/2019, 23:53] Darly(32), Orkun(17) adlý kiþinin admin levelini 6 yaptý.
+[18/11/2019, 23:54] Darly(32), Orkun(17) adlý kiþinin admin levelini 4 yaptý.
+[18/11/2019, 23:54] Darly(32), Orkun(17) adlý kiþinin admin levelini 3 yaptý.
+[18/11/2019, 23:54] Darly(32), Orkun(17) adlý kiþinin admin levelini 6 yaptý.
+[18/11/2019, 23:54] Darly(32), Orkun(17) adlý kiþinin admin levelini 3 yaptý.
+[18/11/2019, 23:54] Darly(32), Orkun(17) adlý kiþinin admin levelini 1 yaptý.
+[18/11/2019, 23:54] Darly(32), Orkun(17) adlý kiþinin admin levelini 2 yaptý.
+[18/11/2019, 23:54] Darly(32), Orkun(17) adlý kiþinin admin levelini 3 yaptý.
+[18/11/2019, 23:54] Darly(32), Orkun(17) adlý kiþinin admin levelini 4 yaptý.
+[18/11/2019, 23:54] Darly(32), Orkun(17) adlý kiþinin admin levelini 5 yaptý.
+[18/11/2019, 23:54] Darly(32), Orkun(17) adlý kiþinin admin levelini 6 yaptý.
+[18/11/2019, 23:55] Darly(32), Orkun(17) adlý kiþinin admin levelini 5 yaptý.
+[18/11/2019, 23:55] Darly(32), Orkun(17) adlý kiþinin admin levelini 4 yaptý.
+[18/11/2019, 23:55] Darly(32), Orkun(17) adlý kiþinin admin levelini 3 yaptý.
+[18/11/2019, 23:55] Darly(32), Orkun(17) adlý kiþinin admin levelini 5 yaptý.
+[18/11/2019, 23:55] Darly(32), Orkun(17) adlý kiþinin admin levelini 2 yaptý.
+[18/11/2019, 23:55] Darly(32), Orkun(17) adlý kiþinin admin levelini 1 yaptý.
+[18/11/2019, 23:55] Darly(32), Allen_Hox(17) adlý kiþinin admin levelini 0 yaptý.
+[18/11/2019, 23:55] Darly(32), Allen_Hox(17) adlý kiþinin admin levelini 1 yaptý.
+[18/11/2019, 23:55] Darly(32), Allen_Hox(17) adlý kiþinin admin levelini 5 yaptý.
+[18/11/2019, 23:56] Darly(32), Allen_Hox(17) adlý kiþinin yetkili ismini Hav yaptý.
+[18/11/2019, 23:56] sikiþ makinasý(17), Allen_Hox(17) adlý kiþinin yetkili ismini sikiþ makinasý yaptý.
+[19/11/2019, 00:12] Berkay(1), Biddy_Boelter(1) adlý kiþinin admin levelini 7 yaptý.
+[19/11/2019, 00:12] Berkay(1), Sucre_Zaragoza(32) adlý kiþinin admin levelini 7 yaptý.
+[19/11/2019, 02:54] Berkay(3), Allen_Hox(17) adlý kiþinin admin levelini 6 yaptý.
+[19/11/2019, 02:54] Berkay(3), Allen_Hox(17) adlý kiþinin yetkili ismini Orkun yaptý.
+[19/11/2019, 02:54] sikiþkangalý(17), Allen_Hox(17) adlý kiþinin yetkili ismini sikiþkangalý yaptý.
+[19/11/2019, 02:55] Berkay(3), Allen_Hox(17) adlý kiþinin yetkili ismini Orkun yaptý.
+[19/11/2019, 02:55] Berkay(3), Orkun(17) adlý kiþinin admin levelini 1 yaptý.
+[19/11/2019, 02:55] Berkay(3), Orkun(17) adlý kiþinin admin levelini 2 yaptý.
+[19/11/2019, 02:55] Berkay(3), Orkun(17) adlý kiþinin admin levelini 3 yaptý.
+[19/11/2019, 02:55] Berkay(3), Orkun(17) adlý kiþinin admin levelini 4 yaptý.
+[19/11/2019, 02:55] Berkay(3), Orkun(17) adlý kiþinin admin levelini 5 yaptý.
+[19/11/2019, 02:56] Berkay(3), Orkun(17) adlý kiþinin admin levelini 6 yaptý.
+[19/11/2019, 02:56] Berkay(3), Orkun(17) adlý kiþinin admin levelini 7 yaptý.
+[19/11/2019, 02:56] Berkay(3), Orkun(17) adlý kiþinin admin levelini 5 yaptý.
+[19/11/2019, 03:04] Yok(3), Michael_Sherwood(3) adlý kiþinin admin levelini 0 yaptý.
+[19/11/2019, 03:04] Yok(3), Michael_Sherwood(3) adlý kiþinin admin levelini 7 yaptý.
+[19/11/2019, 03:04] Berkay(3), Michael_Sherwood(3) adlý kiþinin yetkili ismini Berkay yaptý.
+[19/11/2019, 16:33] Berkay(1), Allen_Hox(17) adlý kiþinin admin levelini 7 yaptý.
+[19/11/2019, 16:35] Orkun(17), Marc_Delgado(1404) adlý kiþinin admin levelini 6 yaptý.
+[19/11/2019, 16:37] Berkay(1) sunucudaki herkese can verdi. (3 kiþi)
+[19/11/2019, 16:41] Orkun(17), Marc_Delgado(1404) adlý kiþiye $50,000 verdi.
+[19/11/2019, 16:56] Berkay(1) sunucudaki herkese can verdi. (2 kiþi)
+[19/11/2019, 16:59] Berkay(1), Marc_Delgado(1404) adlý kiþiye 50TL bakiye verdi.
+[19/11/2019, 19:32] 666(1404), Marc_Delgado(1404) adlý kiþinin admin levelini 7 yaptý.
+[19/11/2019, 22:06] 666(1404), Sucre_Zaragoza(32) adlý kiþiye 60TL bakiye verdi.
+[19/11/2019, 22:06] 666(1404), Marc_Delgado(1404) adlý kiþiye 60TL bakiye verdi.
+[19/11/2019, 22:07] Orkun(17), Allen_Hox(17) adlý kiþinin VIP levelini 3(Sýnýrsýz) yaptý.
+[19/11/2019, 22:14] Darly(32) sunucudaki herkese can verdi. (2 kiþi)
+[19/11/2019, 22:37] 666(1404), Diaz_Cooper(1404) adlý kiþiye 30TL bakiye verdi.
+[19/11/2019, 22:42] Darly(32) sunucudaki herkese can verdi. (2 kiþi)
+[19/11/2019, 22:43] Darly(32), Allen_Hox(17) adlý kiþinin admin levelini 6 yaptý.
+[19/11/2019, 22:45] 666(1404) sunucudaki herkese $10,000 verdi.
+[20/11/2019, 03:16] Darly(32), Allen_Hox(17) adlý kiþinin admin levelini 7 yaptý.
+[20/11/2019, 03:16] Orkun(17), Allen_Hox(17) adlý kiþiye 15TL bakiye verdi.
+[23/11/2019, 05:15] Berkay(1) sunucudaki herkese can verdi. (1 kiþi)
+[23/11/2019, 14:57] Berkay(1) sunucudaki herkese can verdi. (1 kiþi)
+[23/11/2019, 20:04] 666(1404) sunucudaki herkese can verdi. (3 kiþi)
+[23/11/2019, 20:06] 666(1404) sunucudaki herkese can verdi. (3 kiþi)
+[23/11/2019, 20:06] Orkun(17) sunucudaki herkese zýrh verdi. (3 kiþi)
+[23/11/2019, 20:11] 666(1404) sunucudaki herkese can verdi. (4 kiþi)
+[23/11/2019, 20:23] viathegod(1), Biddy_Boelter(1) adlý kiþinin yetkili ismini viathegod yaptý.
+[23/11/2019, 20:29] Orkun(17), Cleveland_Campbell(54) adlý kiþinin helper levelini 0 yaptý.
+[23/11/2019, 20:30] 666(1404) sunucudaki herkese can verdi. (7 kiþi)
+[23/11/2019, 20:30] viathegod(3), Cleveland_Campbell(54) adlý kiþinin admin levelini 6 yaptý.
+[23/11/2019, 20:42] viathegod(3) sunucudaki herkese can verdi. (8 kiþi)
+[23/11/2019, 20:49] anasikenkurt316232(54), Cleveland_Campbell(54) adlý kiþinin yetkili ismini anasikenkurt316232 yaptý.
+[23/11/2019, 23:27] Orkun(17), Jack_Hebert(683) adlý kiþinin admin levelini 7 yaptý.
+[23/11/2019, 23:35] nairobi(54), Cleveland_Campbell(54) adlý kiþinin yetkili ismini nairobi yaptý.
+[23/11/2019, 23:35] kelly(54), Cleveland_Campbell(54) adlý kiþinin yetkili ismini kelly yaptý.
+[23/11/2019, 23:36] Orkun(17), Jesus_Cordeza(709) adlý kiþinin admin levelini 6 yaptý.
+[23/11/2019, 23:36] Orkun(17), Jesus_Cordeza(709) adlý kiþinin yetkili ismini Nazým yaptý.
+[23/11/2019, 23:36] Orkun(17), Vhosta_Lezcano(42) adlý kiþinin admin levelini 6 yaptý.
+[23/11/2019, 23:36] Orkun(17), Vhosta_Lezcano(42) adlý kiþinin yetkili ismini Deneme yaptý.
+[23/11/2019, 23:36] kelly(54), Vhosta_Lezcano(42) adlý kiþinin yetkili ismini Yusuf yaptý.
+[23/11/2019, 23:37] Orkun(17), Eleanor_Grint(15) adlý kiþinin admin levelini 6 yaptý.
+[23/11/2019, 23:37] Orkun(17), Eleanor_Grint(15) adlý kiþinin yetkili ismini Deneme2 yaptý.
+[23/11/2019, 23:39] 666(1404), Jack_Hebert(683) adlý kiþiye $10,000 verdi.
+[23/11/2019, 23:40] Orkun(17), Jack_Hebert(683) adlý kiþinin yetkili ismini Umut yaptý.
+[23/11/2019, 23:40] 666(1404), Jack_Hebert(683) adlý kiþinin yetkili ismini Umut yaptý.
+[23/11/2019, 23:40] 666(1404), Diaz_Cooper(1404) adlý kiþiye $50,000 verdi.
+[23/11/2019, 23:41] Orkun(17), Jesus_Cordeza(709) adlý kiþinin yetkili ismini Nazým yaptý.
+[23/11/2019, 23:41] Nazým(709) sunucudaki herkese zýrh verdi. (7 kiþi)
+[23/11/2019, 23:46] Orkun(17), Kelly_Kelly(54) adlý kiþinin admin levelini 7 yaptý.
+[23/11/2019, 23:49] 666(1404), Jack_Hebert(683) adlý kiþiye $50,000 verdi.
+[24/11/2019, 00:01] 666(1404) sunucudaki herkese can verdi. (6 kiþi)
+[24/11/2019, 00:01] Nazým(709) sunucudaki herkese zýrh verdi. (6 kiþi)
+[24/11/2019, 00:03] 666(1404) sunucudaki herkese can verdi. (6 kiþi)
+[24/11/2019, 00:04] 666(1404) sunucudaki herkese can verdi. (6 kiþi)
+[24/11/2019, 00:07] 666(1404), Jesus_Cordeza(709) adlý kiþinin yetkili ismini Espinoza yaptý.
+[24/11/2019, 00:08] 666(1404), Vhosta_Lezcano(42) adlý kiþinin admin levelini 0 yaptý.
+[24/11/2019, 00:09] 666(1404), Brian_Warnock(42) adlý kiþinin admin levelini 6 yaptý.
+[24/11/2019, 00:10] 666(1404), Brian_Warnock(42) adlý kiþinin yetkili ismini Yusuf yaptý.
+[24/11/2019, 00:12] 666(1404) sunucudaki herkese can verdi. (6 kiþi)
+[26/11/2019, 23:21] Darly(32), Espinoza(709) adlý kiþinin admin levelini 1 yaptý.
+[26/11/2019, 23:37] viathegod(1) sunucudaki herkese can verdi. (4 kiþi)
+[26/11/2019, 23:42] Orkun(17) sunucudaki herkese $1 verdi.
+[27/11/2019, 03:10] viathegod(1) sunucudaki herkese can verdi. (2 kiþi)
+[27/11/2019, 03:38] viathegod(1) sunucudaki herkese can verdi. (3 kiþi)
+[27/11/2019, 03:41] viathegod(1) sunucudaki herkese can verdi. (3 kiþi)
+[27/11/2019, 03:41] viathegod(1) sunucudaki herkese zýrh verdi. (3 kiþi)
+[01/12/2019, 06:06] viathegod(2), Veronica_Renfrow(2) adlý kiþinin parasýný $24 olarak düzenledi.
+[01/12/2019, 06:06] viathegod(2), Veronica_Renfrow(2) adlý kiþinin parasýný $500 olarak düzenledi.
+[01/12/2019, 06:06] viathegod(2), Veronica_Renfrow(2) adlý kiþinin parasýný $1 olarak düzenledi.
+[01/12/2019, 06:06] viathegod(2), Veronica_Renfrow(2) adlý kiþinin parasýný $15,000 olarak düzenledi.
+[01/12/2019, 06:17] viathegod(1), Kaitlyn_Rogers(1333) adlý kiþinin admin levelini 7 yaptý.
+[01/12/2019, 06:17] viathegod(1), Kaitlyn_Rogers(1333) adlý kiþinin yetkili ismini Berkay yaptý.
+[08/12/2019, 03:55] viathegod(1), Biddy_Boelter(1) adlý kiþinin parasýný $50,000 olarak düzenledi.
+[09/12/2019, 01:43] NULL(2), Nakroth_Lothbrook(1) adlý kiþinin admin levelini 7 yaptý.
+[09/12/2019, 01:43] NULL(2), Berkay_Test(2) adlý kiþinin admin levelini 7 yaptý.
+[09/12/2019, 01:43] NULL(2), Nakroth_Lothbrook(1) adlý kiþinin yetkili ismini Batuhan yaptý.
+[09/12/2019, 01:43] Berkay(2), Berkay_Test(2) adlý kiþinin yetkili ismini Berkay yaptý.
+[14/12/2019, 07:22] Berkay(2), Berkay_Test(2) adlý kiþiye $50,000 verdi.
+[13/01/2020, 05:24] Berkay(2), Berkay_Test(2) adlý kiþinin parasýný $1 olarak düzenledi.
+[13/01/2020, 11:48] Berkay(2), Berkay_Test(2) adlý kiþiye 15TL bakiye verdi.
+[13/01/2020, 11:54] Berkay(3), Clara_Sherwood(3) adlý kiþiye 15TL bakiye verdi.
+[20/01/2020, 04:06] via(10), Clara_Sherwood(10) adlý kiþiye $75,000 verdi.
+[21/01/2020, 05:47] via(10), Clara_Sherwood(10) adlý kiþinin VIP levelini 3(Sýnýrsýz) yaptý.
+[26/09/2022, 15:09] Yok(1), Rage_Sawyer(1) adlý kiþiye $100,000 verdi.
+[26/09/2022, 15:09] Yok(1), Rage_Sawyer(1) adlý kiþiye $1,000,000 verdi.

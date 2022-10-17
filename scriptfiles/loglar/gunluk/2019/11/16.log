@@ -1,0 +1,1329 @@
+[16/11/2019, 03:52] 001(127.0.0.1) sunucuya giriþ yaptý.
+[16/11/2019, 03:52] (komut) Biddy_Boelter(1): /KARAKTER
+[16/11/2019, 03:52] (komut) Biddy_Boelter(1): /amaas
+[16/11/2019, 03:54] (komut) Biddy_Boelter(1): /ayarlar
+[16/11/2019, 03:54] (komut) Biddy_Boelter(1): /rapor
+[16/11/2019, 03:55] 538(25.5.84.199) sunucuya giriþ yaptý.
+[16/11/2019, 03:55] (komut) Biddy_Boelter(1): /cek 1
+[16/11/2019, 03:55] Berkay(1), Sucre_Zaragoza(32) adlý kiþiyi yanýna çekti.
+[16/11/2019, 03:55] (komut) Biddy_Boelter(1): /adminyap 1 6
+[16/11/2019, 03:55] Berkay(1), Sucre_Zaragoza(32) adlý kiþinin admin levelini 6 yaptý.
+[16/11/2019, 03:55] (komut) Biddy_Boelter(1): /setskin 1 22
+[16/11/2019, 03:55] Berkay(1), Sucre_Zaragoza(32) adlý kiþinin kýyafetini 22 olarak deðiþtirdi.
+[16/11/2019, 03:55] (komut) Biddy_Boelter(1): /setskin 1 29
+[16/11/2019, 03:55] Berkay(1), Sucre_Zaragoza(32) adlý kiþinin kýyafetini 29 olarak deðiþtirdi.
+[16/11/2019, 03:55] (komut) Sucre_Zaragoza(32): /dat
+[16/11/2019, 03:55] (komut) Sucre_Zaragoza(32): /c .
+[16/11/2019, 03:55] [helper-chat] Sucre_Zaragoza(32): .
+[16/11/2019, 03:56] (komut) Sucre_Zaragoza(32): /helpers
+[16/11/2019, 03:56] (komut) Sucre_Zaragoza(32): /helper
+[16/11/2019, 03:56] (komut) Biddy_Boelter(1): /c .
+[16/11/2019, 03:56] [helper-chat] Biddy_Boelter(1): .
+[16/11/2019, 03:56] (komut) Sucre_Zaragoza(32): /yardim
+[16/11/2019, 03:56] (komut) Sucre_Zaragoza(32): /karakter
+[16/11/2019, 03:56] 128(25.74.73.86) sunucuya giriþ yaptý.
+[16/11/2019, 03:56] (komut) Biddy_Boelter(1): /karakter
+[16/11/2019, 03:56] 128(255.255.255.255) oyundan çýkýþ yaptý.
+[16/11/2019, 03:56] (komut) Biddy_Boelter(1): /aliste
+[16/11/2019, 03:56] (komut) Biddy_Boelter(1): /acek 255
+[16/11/2019, 03:56] Berkay(1) bir aracý yanýna çekti. (SQL: 21339)
+[16/11/2019, 03:56] [cmd_ame] Biddy_Boelter(1) anahtarý saat yönünde çevirir ve aracýn motorunu açmaya çalýþýr.
+[16/11/2019, 03:56] (komut) Sucre_Zaragoza(32): /v
+[16/11/2019, 03:56] (komut) Sucre_Zaragoza(32): /veh
+[16/11/2019, 03:57] (komut) Biddy_Boelter(1): /aracver 1 411
+[16/11/2019, 03:57] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye Infernus model arac verdi. (SID: 0)
+[16/11/2019, 03:57] (komut) Biddy_Boelter(1): /mulklerim
+[16/11/2019, 03:57] (komut) Biddy_Boelter(1): /git ev 5
+[16/11/2019, 03:57] Sucre_Zaragoza(25.5.84.199) oyundan çýkýþ yaptý.
+[16/11/2019, 03:57] (komut) Biddy_Boelter(1): /ev
+[16/11/2019, 03:57] (komut) Biddy_Boelter(1): /ev
+[16/11/2019, 03:57] [cmd_me] Biddy_Boelter(1) ýþýklarý açar.
+[16/11/2019, 03:57] (komut) Biddy_Boelter(1): /ev
+[16/11/2019, 03:57] 538(25.5.84.199) sunucuya giriþ yaptý.
+[16/11/2019, 03:57] (komut) Sucre_Zaragoza(32): /motor
+[16/11/2019, 03:57] [cmd_ame] Sucre_Zaragoza(32) anahtarý saat yönünde çevirir ve aracýn motorunu açmaya çalýþýr.
+[16/11/2019, 03:57] (komut) Biddy_Boelter(1): /ev
+[16/11/2019, 03:57] (komut) Biddy_Boelter(1): /ev
+[16/11/2019, 03:57] (komut) Biddy_Boelter(1): /ev
+[16/11/2019, 03:58] (komut) Biddy_Boelter(1): /nos
+[16/11/2019, 03:58] (komut) Biddy_Boelter(1): /nos
+[16/11/2019, 03:58] (komut) Biddy_Boelter(1): /ev
+[16/11/2019, 03:58] (komut) Sucre_Zaragoza(32): /gir
+[16/11/2019, 03:58] (komut) Biddy_Boelter(1): /ev
+[16/11/2019, 03:58] (komut) Biddy_Boelter(1): /git 1
+[16/11/2019, 03:58] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 03:58] (komut) Biddy_Boelter(1): /git 1
+[16/11/2019, 03:58] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 03:58] (komut) Biddy_Boelter(1): /git 1
+[16/11/2019, 03:58] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 03:58] (komut) Biddy_Boelter(1): /git 1
+[16/11/2019, 03:58] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 03:58] (komut) Biddy_Boelter(1): /git 1
+[16/11/2019, 03:58] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 03:58] (komut) Biddy_Boelter(1): /git 1
+[16/11/2019, 03:58] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 03:58] (komut) Biddy_Boelter(1): /git 1
+[16/11/2019, 03:58] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 03:58] (komut) Biddy_Boelter(1): /git 1
+[16/11/2019, 03:58] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 03:58] (komut) Biddy_Boelter(1): /git 1
+[16/11/2019, 03:58] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 03:59] (komut) Biddy_Boelter(1): /aduty
+[16/11/2019, 03:59] (komut) Berkay(1): /git 1
+[16/11/2019, 03:59] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 03:59] 999(25.74.73.86) sunucuya giriþ yaptý.
+[16/11/2019, 03:59] 999(255.255.255.255) oyundan çýkýþ yaptý.
+[16/11/2019, 03:59] (komut) Berkay(1): /aracabin 478
+[16/11/2019, 03:59] (komut) Sucre_Zaragoza(32): /satinal
+[16/11/2019, 04:00] (komut) Berkay(1): /atamirci
+[16/11/2019, 04:00] (komut) Berkay(1): /atamirci yarat
+[16/11/2019, 04:00] (komut) Sucre_Zaragoza(32): /silahver
+[16/11/2019, 04:00] (komut) Berkay(1): /atamirci 17 sil
+[16/11/2019, 04:00] (komut) Berkay(1): /ahelp
+[16/11/2019, 04:00] (komut) Berkay(1): /cekilis
+[16/11/2019, 04:00] (komut) Berkay(1): /cekilis
+[16/11/2019, 04:00] (komut) Berkay(1): /cekilis
+[16/11/2019, 04:00] (komut) Berkay(1): /cekilis
+[16/11/2019, 04:01] (komut) Berkay(1): /cekilis
+[16/11/2019, 04:01] (komut) Berkay(1): /cekilis
+[16/11/2019, 04:01] (komut) Berkay(1): /cekilis
+[16/11/2019, 04:01] (komut) Berkay(1): /herkesepara
+[16/11/2019, 04:01] (komut) Berkay(1): /herkesepara 555
+[16/11/2019, 04:01] Berkay(1) sunucudaki herkese $555 verdi.
+[16/11/2019, 04:01] (komut) Berkay(1): /herkeseynp 50
+[16/11/2019, 04:01] Berkay(1) sunucudaki herkese $50 YNP verdi.
+[16/11/2019, 04:01] (komut) Berkay(1): /okarakter
+[16/11/2019, 04:01] (komut) Berkay(1): /okarakter Marc_Delgado
+[16/11/2019, 04:02] 375(25.74.73.86) sunucuya giriþ yaptý.
+[16/11/2019, 04:02] (komut) Berkay(1): /forumid 1
+[16/11/2019, 04:02] (komut) Berkay(1): /karakter
+[16/11/2019, 04:02] (komut) Berkay(1): /b /forumid 1
+[16/11/2019, 04:02] (komut) Sucre_Zaragoza(32): /cek 2
+[16/11/2019, 04:02] Darly(32), Marc_Delgado(1404) adlý kiþiyi yanýna çekti.
+[16/11/2019, 04:02] (komut) Sucre_Zaragoza(32): /forumid 1
+[16/11/2019, 04:02] (komut) Berkay(1): /forumid 1
+[16/11/2019, 04:03] (komut) Berkay(1): /ahelp
+[16/11/2019, 04:03] (komut) Berkay(1): /birlikler
+[16/11/2019, 04:03] (komut) Berkay(1): /binalar
+[16/11/2019, 04:03] (komut) Marc_Delgado(1404): /birlikler
+[16/11/2019, 04:03] (komut) Berkay(1): /birlikler
+[16/11/2019, 04:03] (komut) Berkay(1): /ayarlar
+[16/11/2019, 04:03] (komut) Sucre_Zaragoza(32): /birlikler
+[16/11/2019, 04:03] (komut) Berkay(1): /aduty
+[16/11/2019, 04:03] (komut) Biddy_Boelter(1): /git 1
+[16/11/2019, 04:03] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:03] (komut) Marc_Delgado(1404): /ayarlar
+[16/11/2019, 04:03] (komut) Sucre_Zaragoza(32): /ayarlar
+[16/11/2019, 04:03] (komut) Biddy_Boelter(1): /setskin 2 299
+[16/11/2019, 04:03] Berkay(1), Marc_Delgado(1404) adlý kiþinin kýyafetini 299 olarak deðiþtirdi.
+[16/11/2019, 04:03] (komut) Sucre_Zaragoza(32): /ayarlar
+[16/11/2019, 04:04] (komut) Marc_Delgado(1404): /birlikler
+[16/11/2019, 04:04] (komut) Marc_Delgado(1404): /ayarlar
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /ayarlar
+[16/11/2019, 04:04] Marc Delgado(HESAP ID: 375) can hilesi kullanýyor olabilir. (#015)
+[16/11/2019, 04:04] Marc Delgado(HESAP ID: 375) teleport hilesi kullanýyor olabilir. (#019)
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /isyeriyarat
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri yarat
+[16/11/2019, 04:04] Berkay(1), bir iþyeri oluþturdu. (SID: 0)
+[16/11/2019, 04:04] Marc Delgado(HESAP ID: 375) teleport hilesi kullanýyor olabilir. (#019)
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri 55
+[16/11/2019, 04:04] (komut) Sucre_Zaragoza(32): /cek 2
+[16/11/2019, 04:04] Darly(32), Marc_Delgado(1404) adlý kiþiyi yanýna çekti.
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri 55 tur
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri 55 tur 10
+[16/11/2019, 04:04] Berkay(1), iþyeri türünü Market yaptý. (SID: 89)
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri 55 tur 8
+[16/11/2019, 04:04] Berkay(1), iþyeri türünü Bar yaptý. (SID: 89)
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri 55 tur 9
+[16/11/2019, 04:04] Berkay(1), iþyeri türünü Benzinlik Marketi yaptý. (SID: 89)
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri 55 tur 10
+[16/11/2019, 04:04] Berkay(1), iþyeri türünü Benzinlik Marketi yaptý. (SID: 89)
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri 55 tur 4
+[16/11/2019, 04:04] Berkay(1), iþyeri türünü Galeri yaptý. (SID: 89)
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri 55 tur 5
+[16/11/2019, 04:04] Berkay(1), iþyeri türünü Berber yaptý. (SID: 89)
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri 55 tur 6
+[16/11/2019, 04:04] Berkay(1), iþyeri türünü Sex Shop yaptý. (SID: 89)
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri 55 tur 7
+[16/11/2019, 04:04] Berkay(1), iþyeri türünü Giyim yaptý. (SID: 89)
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri 55 tur 8
+[16/11/2019, 04:04] Berkay(1), iþyeri türünü Bar yaptý. (SID: 89)
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri 55 tur 10
+[16/11/2019, 04:04] Berkay(1), iþyeri türünü Bar yaptý. (SID: 89)
+[16/11/2019, 04:04] (komut) Biddy_Boelter(1): /aisyeri 55 sil
+[16/11/2019, 04:04] Berkay(1), iþyeri sildi. (SID: 89)
+[16/11/2019, 04:05] (komut) Sucre_Zaragoza(32): /dat
+[16/11/2019, 04:05] (komut) Biddy_Boelter(1): /ah
+[16/11/2019, 04:05] (komut) Biddy_Boelter(1): /git 2
+[16/11/2019, 04:05] Berkay(1), Marc_Delgado(1404) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:05] (komut) Biddy_Boelter(1): /git 2
+[16/11/2019, 04:05] Berkay(1), Marc_Delgado(1404) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:05] (komut) Biddy_Boelter(1): /git 2
+[16/11/2019, 04:05] Berkay(1), Marc_Delgado(1404) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:05] (komut) Biddy_Boelter(1): /atmpara
+[16/11/2019, 04:05] (komut) Sucre_Zaragoza(32): /setskin
+[16/11/2019, 04:05] (komut) Biddy_Boelter(1): /atmpara 500000
+[16/11/2019, 04:05] (komut) Sucre_Zaragoza(32): /setskin 1 299
+[16/11/2019, 04:05] Darly(32), Sucre_Zaragoza(32) adlý kiþinin kýyafetini 299 olarak deðiþtirdi.
+[16/11/2019, 04:05] (komut) Sucre_Zaragoza(32): /setskin 1 290
+[16/11/2019, 04:05] Darly(32), Sucre_Zaragoza(32) adlý kiþinin kýyafetini 290 olarak deðiþtirdi.
+[16/11/2019, 04:05] (komut) Sucre_Zaragoza(32): /setskin 1 120
+[16/11/2019, 04:05] Darly(32), Sucre_Zaragoza(32) adlý kiþinin kýyafetini 120 olarak deðiþtirdi.
+[16/11/2019, 04:05] (komut) Biddy_Boelter(1): /herkesecan
+[16/11/2019, 04:05] Berkay(1) sunucudaki herkese can verdi. (3 kiþi)
+[16/11/2019, 04:05] (komut) Sucre_Zaragoza(32): /setskin 1 240
+[16/11/2019, 04:05] Darly(32), Sucre_Zaragoza(32) adlý kiþinin kýyafetini 240 olarak deðiþtirdi.
+[16/11/2019, 04:05] (komut) Biddy_Boelter(1): /herkesezirh
+[16/11/2019, 04:05] Berkay(1) sunucudaki herkese zýrh verdi. (3 kiþi)
+[16/11/2019, 04:06] (komut) Biddy_Boelter(1): /ah
+[16/11/2019, 04:06] (komut) Biddy_Boelter(1): /oocmarket
+[16/11/2019, 04:06] (komut) Marc_Delgado(1404): /ayarlar
+[16/11/2019, 04:06] (komut) Marc_Delgado(1404): /f sa
+[16/11/2019, 04:06] [chat] [El Cranéo] Marc_Delgado(1404): sa
+[16/11/2019, 04:06] (komut) Marc_Delgado(1404): /karakter
+[16/11/2019, 04:06] (komut) Sucre_Zaragoza(32): /f as
+[16/11/2019, 04:06] [chat] [El Cranéo] Sucre_Zaragoza(32): as
+[16/11/2019, 04:06] (komut) Marc_Delgado(1404): /birlikler
+[16/11/2019, 04:06] (komut) Biddy_Boelter(1): /bakiyever 1 150
+[16/11/2019, 04:06] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye 150TL bakiye verdi.
+[16/11/2019, 04:06] (komut) Sucre_Zaragoza(32): /oocmarket
+[16/11/2019, 04:06] (komut) Marc_Delgado(1404): /birlik
+[16/11/2019, 04:07] (komut) Sucre_Zaragoza(32): /oocmarket
+[16/11/2019, 04:07] (komut) Sucre_Zaragoza(32): /oocmarket
+[16/11/2019, 04:07] (komut) Sucre_Zaragoza(32): /oocmarket
+[16/11/2019, 04:07] (komut) Biddy_Boelter(1): /okarakter allen_hox
+[16/11/2019, 04:07] (komut) Sucre_Zaragoza(32): /oocmarket
+[16/11/2019, 04:07] (komut) Sucre_Zaragoza(32): /silahver
+[16/11/2019, 04:08] 126(25.6.24.251) sunucuya giriþ yaptý.
+[16/11/2019, 04:08] 126(255.255.255.255) oyundan çýkýþ yaptý.
+[16/11/2019, 04:08] (komut) Sucre_Zaragoza(32): /sunucu
+[16/11/2019, 04:08] (komut) Marc_Delgado(1404): /sunucu
+[16/11/2019, 04:08] (komut) Sucre_Zaragoza(32): /sunucu
+[16/11/2019, 04:08] (komut) Marc_Delgado(1404): /sunucubilgi
+[16/11/2019, 04:08] Sucre_Zaragoza(255.255.255.255) oyundan çýkýþ yaptý.
+[16/11/2019, 04:08] 126(25.6.24.251) sunucuya giriþ yaptý.
+[16/11/2019, 04:09] 126(255.255.255.255) oyundan çýkýþ yaptý.
+[16/11/2019, 04:09] 126(25.6.24.251) sunucuya giriþ yaptý.
+[16/11/2019, 04:09] 538(25.5.84.199) sunucuya giriþ yaptý.
+[16/11/2019, 04:09] (komut) Sucre_Zaragoza(32): /sunucu
+[16/11/2019, 04:09] 126(255.255.255.255) oyundan çýkýþ yaptý.
+[16/11/2019, 04:09] (komut) Biddy_Boelter(1): /adminyap 2
+[16/11/2019, 04:09] (komut) Biddy_Boelter(1): /adminyap 2 6
+[16/11/2019, 04:09] Berkay(1), Marc_Delgado(1404) adlý kiþinin admin levelini 6 yaptý.
+[16/11/2019, 04:10] (komut) Sucre_Zaragoza(32): /sunucu
+[16/11/2019, 04:10] (komut) Sucre_Zaragoza(32): /dat
+[16/11/2019, 04:10] (komut) Sucre_Zaragoza(32): /ah
+[16/11/2019, 04:10] (komut) Sucre_Zaragoza(32): /aparaduzenle
+[16/11/2019, 04:10] (komut) Marc_Delgado(1404): /sunucu
+[16/11/2019, 04:10] (komut) Sucre_Zaragoza(32): /ah
+[16/11/2019, 04:10] (komut) Marc_Delgado(1404): /aduty
+[16/11/2019, 04:10] (komut) Marc_Delgado(1404): /fly
+[16/11/2019, 04:10] (komut) Sucre_Zaragoza(32): /herkesepara
+[16/11/2019, 04:10] (komut) Sucre_Zaragoza(32): /herkesepara 1
+[16/11/2019, 04:10] Darly(32) sunucudaki herkese $1 verdi.
+[16/11/2019, 04:10] (komut) Marc_Delgado(1404): /ahelp
+[16/11/2019, 04:10] (komut) Sucre_Zaragoza(32): /ah
+[16/11/2019, 04:10] (komut) Sucre_Zaragoza(32): /karýlar
+[16/11/2019, 04:10] (komut) Sucre_Zaragoza(32): /karilar
+[16/11/2019, 04:10] (komut) Sucre_Zaragoza(32): /karilar
+[16/11/2019, 04:10] (komut) Marc_Delgado(1404): /sunucu
+[16/11/2019, 04:10] (komut) Marc_Delgado(1404): /ahurdaci
+[16/11/2019, 04:10] (komut) Sucre_Zaragoza(32): /avratlar
+[16/11/2019, 04:10] NULL listeden araç sildi. (SID: 1 | Model: Sultan)
+[16/11/2019, 04:10] (komut) Marc_Delgado(1404): /ahurdaci
+[16/11/2019, 04:11] (komut) Biddy_Boelter(1): /avratlar
+[16/11/2019, 04:11] 126(25.6.24.251) sunucuya giriþ yaptý.
+[16/11/2019, 04:11] (komut) Sucre_Zaragoza(32): /silahver
+[16/11/2019, 04:11] (komut) Marc_Delgado(1404): /ahurdaci
+[16/11/2019, 04:11] (komut) Marc_Delgado(1404): /ahelp
+[16/11/2019, 04:11] (komut) Sucre_Zaragoza(32): /asilahver 3 spas12
+[16/11/2019, 04:11] (komut) Biddy_Boelter(1): /o
+[16/11/2019, 04:11] (komut) Allen_Hox(17): /arvatlar
+[16/11/2019, 04:11] (komut) Sucre_Zaragoza(32): /asilahver 3 spas12 99
+[16/11/2019, 04:11] (komut) Biddy_Boelter(1): /o anaskm
+[16/11/2019, 04:11] [adm-ooc] Berkay(1): anaskm
+[16/11/2019, 04:11] (komut) Allen_Hox(17): /avratlar
+[16/11/2019, 04:11] (komut) Marc_Delgado(1404): /asilahver
+[16/11/2019, 04:11] (komut) Sucre_Zaragoza(32): /asilahver 3 spas 99
+[16/11/2019, 04:11] (komut) Biddy_Boelter(1): /cek 1
+[16/11/2019, 04:11] Berkay(1), Allen_Hox(17) adlý kiþiyi yanýna çekti.
+[16/11/2019, 04:11] (komut) Biddy_Boelter(1): /adminyap 1 6
+[16/11/2019, 04:11] Berkay(1), Allen_Hox(17) adlý kiþinin admin levelini 6 yaptý.
+[16/11/2019, 04:11] (komut) Sucre_Zaragoza(32): /asilahver 3 34 99
+[16/11/2019, 04:11] (komut) Biddy_Boelter(1): /setskin 1 299,
+[16/11/2019, 04:11] (komut) Marc_Delgado(1404): /asilahver 2 24 555
+[16/11/2019, 04:11] (komut) Sucre_Zaragoza(32): /asilahver 3 34 10
+[16/11/2019, 04:11] Darly(32), Sucre_Zaragoza(32) adlý kiþiye Sniper Rifle model silah verdi.
+[16/11/2019, 04:11] (komut) Biddy_Boelter(1): /setskin 1 299
+[16/11/2019, 04:11] Berkay(1), Allen_Hox(17) adlý kiþinin kýyafetini 299 olarak deðiþtirdi.
+[16/11/2019, 04:11] (komut) Marc_Delgado(1404): /asilahver 2 24 70
+[16/11/2019, 04:11] NULL(1404), Marc_Delgado(1404) adlý kiþiye Desert Eagle model silah verdi.
+[16/11/2019, 04:11] (komut) Allen_Hox(17): /admin
+[16/11/2019, 04:11] (komut) Allen_Hox(17): /aduty
+[16/11/2019, 04:11] Marc Delgado(HESAP ID: 375) can hilesi kullanýyor olabilir. (#015)
+[16/11/2019, 04:11] Marc Delgado(HESAP ID: 375) zýrh hilesi kullanýyor olabilir. (#016)
+[16/11/2019, 04:11] Marc_Delgado(1404), Sucre_Zaragoza(32) tarafýndan öldürüldü. (sebep: 34)
+[16/11/2019, 04:11] (komut) Orkun(17): /weapon
+[16/11/2019, 04:11] Biddy_Boelter(1), Sucre_Zaragoza(32) tarafýndan öldürüldü. (sebep: 34)
+[16/11/2019, 04:11] (komut) Marc_Delgado(1404): /revive
+[16/11/2019, 04:11] (komut) Biddy_Boelter(1): /canlandir 0
+[16/11/2019, 04:11] Berkay(1), Biddy_Boelter(1) adlý kiþiyi yaralý durumdan çýkardý.
+[16/11/2019, 04:11] (komut) Biddy_Boelter(1): /canlandir 2
+[16/11/2019, 04:11] Berkay(1), Marc_Delgado(1404) adlý kiþiyi yaralý durumdan çýkardý.
+[16/11/2019, 04:11] (komut) Orkun(17): /god
+[16/11/2019, 04:11] (komut) Sucre_Zaragoza(32): /aaraccikar
+[16/11/2019, 04:11] (komut) Marc_Delgado(1404): /revive 1
+[16/11/2019, 04:11] (komut) Orkun(17): /w
+[16/11/2019, 04:11] (komut) Sucre_Zaragoza(32): /araccikar
+[16/11/2019, 04:11] (komut) Sucre_Zaragoza(32): /ah
+[16/11/2019, 04:12] (komut) Marc_Delgado(1404): /gethere 1
+[16/11/2019, 04:12] NULL(1404), Orkun(17) adlý kiþiyi yanýna çekti.
+[16/11/2019, 04:12] (komut) Sucre_Zaragoza(32): /aracver
+[16/11/2019, 04:12] (komut) Sucre_Zaragoza(32): /aracver 3 sultan 0 0 
+[16/11/2019, 04:12] Darly(32), Sucre_Zaragoza(32) adlý kiþiye Sultan model arac verdi. (SID: 0)
+[16/11/2019, 04:12] Marc_Delgado(1404), Orkun(17) tarafýndan öldürüldü. (sebep: 24)
+[16/11/2019, 04:12] (komut) Orkun(17): /aduty
+[16/11/2019, 04:12] (komut) Marc_Delgado(1404): /revive 2
+[16/11/2019, 04:12] NULL(1404), Marc_Delgado(1404) adlý kiþiyi yaralý durumdan çýkardý.
+[16/11/2019, 04:12] (komut) Allen_Hox(17): /aduty
+[16/11/2019, 04:12] (komut) Sucre_Zaragoza(32): /motor
+[16/11/2019, 04:12] [cmd_ame] Sucre_Zaragoza(32) anahtarý saat yönünde çevirir ve aracýn motorunu açmaya çalýþýr.
+[16/11/2019, 04:12] (komut) Biddy_Boelter(1): /a /ymac
+[16/11/2019, 04:12] [adm-chat] Biddy_Boelter(1): /ymac
+[16/11/2019, 04:12] (komut) Orkun(17): /a aðla
+[16/11/2019, 04:12] [adm-chat] Orkun(17): aðla
+[16/11/2019, 04:12] (komut) Marc_Delgado(1404): /a amk
+[16/11/2019, 04:12] [adm-chat] Marc_Delgado(1404): amk
+[16/11/2019, 04:12] (komut) Biddy_Boelter(1): /c .
+[16/11/2019, 04:12] [helper-chat] Biddy_Boelter(1): .
+[16/11/2019, 04:12] (komut) Biddy_Boelter(1): /y .
+[16/11/2019, 04:12] (komut) Biddy_Boelter(1): /yt 
+[16/11/2019, 04:12] (komut) Sucre_Zaragoza(32): /ymac
+[16/11/2019, 04:12] (komut) Biddy_Boelter(1): /yt fasdfs
+[16/11/2019, 04:12] [radyo-990] Biddy_Boelter(1): fasdfs
+[16/11/2019, 04:12] (komut) Orkun(17): /nos
+[16/11/2019, 04:12] (komut) Biddy_Boelter(1): /r .
+[16/11/2019, 04:12] [radyo-990] Biddy_Boelter(1): .
+[16/11/2019, 04:12] (komut) Biddy_Boelter(1): /Nos
+[16/11/2019, 04:12] (komut) Biddy_Boelter(1): /Nos
+[16/11/2019, 04:12] (komut) Marc_Delgado(1404): /nos
+[16/11/2019, 04:12] (komut) Biddy_Boelter(1): /oyuncuduzenle
+[16/11/2019, 04:13] (komut) Marc_Delgado(1404): /ayarlar
+[16/11/2019, 04:13] (komut) Marc_Delgado(1404): /atamir
+[16/11/2019, 04:13] (komut) Sucre_Zaragoza(32): /oyuncuduzenle
+[16/11/2019, 04:13] (komut) Orkun(17): /oyuncuuzenle
+[16/11/2019, 04:13] (komut) Marc_Delgado(1404): /ahelp
+[16/11/2019, 04:13] (komut) Biddy_Boelter(1): /aracduzenle 479 
+[16/11/2019, 04:13] (komut) Biddy_Boelter(1): /aracduzenle 479 zirh 2
+[16/11/2019, 04:13] (komut) Marc_Delgado(1404): /oyuncuduzenle
+[16/11/2019, 04:13] (komut) Biddy_Boelter(1): /atamir
+[16/11/2019, 04:13] (komut) Orkun(17): /araclarim
+[16/11/2019, 04:13] (komut) Marc_Delgado(1404): /ahelp
+[16/11/2019, 04:14] (komut) Marc_Delgado(1404): /herkesezirh
+[16/11/2019, 04:14] NULL(1404) sunucudaki herkese zýrh verdi. (4 kiþi)
+[16/11/2019, 04:14] (komut) Marc_Delgado(1404): /aisim
+[16/11/2019, 04:14] (komut) Marc_Delgado(1404): /aisimver
+[16/11/2019, 04:14] (komut) Marc_Delgado(1404): /isimver
+[16/11/2019, 04:14] (komut) Marc_Delgado(1404): /isimdegistir
+[16/11/2019, 04:14] (komut) Marc_Delgado(1404): /ahelp
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /opatlar
+[16/11/2019, 04:15] (komut) Marc_Delgado(1404): /ahelp
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /opatlat
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /patlat
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /ahelp
+[16/11/2019, 04:15] (komut) Marc_Delgado(1404): /ahelp
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Marc_Delgado(1404): /brutbe
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Marc_Delgado(1404): /brutbe 2 6
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Sucre_Zaragoza(32): /oyver
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Marc_Delgado(1404): /brutbe 2 4
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Marc_Delgado(1404): /ahelp
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /cekilis
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /ahelp
+[16/11/2019, 04:15] (komut) Orkun(17): /cekilis
+[16/11/2019, 04:15] (komut) Sucre_Zaragoza(32): /zarat
+[16/11/2019, 04:15] [zar] Sucre_Zaragoza(32) zar attý: 4
+[16/11/2019, 04:15] (komut) Orkun(17): /zar
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /zarat admin
+[16/11/2019, 04:15] [zar] Biddy_Boelter(1) zar attý: 2
+[16/11/2019, 04:15] (komut) Orkun(17): /zar
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /zarat admin
+[16/11/2019, 04:15] [zar] Biddy_Boelter(1) zar attý: 6
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /zarat admin
+[16/11/2019, 04:15] [zar] Biddy_Boelter(1) zar attý: 6
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /zarat admin
+[16/11/2019, 04:15] [zar] Biddy_Boelter(1) zar attý: 5
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /zarat admin
+[16/11/2019, 04:15] [zar] Biddy_Boelter(1) zar attý: 3
+[16/11/2019, 04:15] (komut) Orkun(17): /zarat
+[16/11/2019, 04:15] [zar] Orkun(17) zar attý: 1
+[16/11/2019, 04:15] (komut) Marc_Delgado(1404): /liderayarla
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /zarat admin
+[16/11/2019, 04:15] [zar] Biddy_Boelter(1) zar attý: 5
+[16/11/2019, 04:15] (komut) Biddy_Boelter(1): /zarat admin
+[16/11/2019, 04:15] [zar] Biddy_Boelter(1) zar attý: 5
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /zarat admin
+[16/11/2019, 04:16] [zar] Biddy_Boelter(1) zar attý: 6
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /zarat admin
+[16/11/2019, 04:16] [zar] Biddy_Boelter(1) zar attý: 5
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /zarat admin
+[16/11/2019, 04:16] [zar] Biddy_Boelter(1) zar attý: 3
+[16/11/2019, 04:16] (komut) Marc_Delgado(1404): /birlikler
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /zarat admin
+[16/11/2019, 04:16] [zar] Biddy_Boelter(1) zar attý: 5
+[16/11/2019, 04:16] (komut) Marc_Delgado(1404): /birlikler
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Sucre_Zaragoza(32): /gonder ls
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /dene admin
+[16/11/2019, 04:16] [dene] Biddy_Boelter(1) Baþarýlý
+[16/11/2019, 04:16] (komut) Sucre_Zaragoza(32): /gonder ls 1
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /asandik
+[16/11/2019, 04:16] (komut) Marc_Delgado(1404): /hhethere 3
+[16/11/2019, 04:16] Sucre_Zaragoza(32), Orkun(17) tarafýndan öldürüldü. (sebep: 24)
+[16/11/2019, 04:16] (komut) Sucre_Zaragoza(32): /git 1
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /asandik yarat
+[16/11/2019, 04:16] (komut) Marc_Delgado(1404): /revive 3
+[16/11/2019, 04:16] NULL(1404), Sucre_Zaragoza(32) adlý kiþiyi yaralý durumdan çýkardý.
+[16/11/2019, 04:16] (komut) Orkun(17): /revive
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /asandik 0 sahip
+[16/11/2019, 04:16] Sucre Zaragoza(HESAP ID: 538) hile yaptýðý için kicklendi. (#013-34)
+[16/11/2019, 04:16] Sucre_Zaragoza(255.255.255.255) oyundan çýkýþ yaptý.
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /asandik 0 sahip 0
+[16/11/2019, 04:16] Orkun(17), Marc_Delgado(1404) tarafýndan öldürüldü. (sebep: 24)
+[16/11/2019, 04:16] (komut) Orkun(17): /revive 1
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /asandik yarat
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /asandik 1 sahip 2
+[16/11/2019, 04:16] (komut) Orkun(17): /oykullan
+[16/11/2019, 04:16] (komut) Marc_Delgado(1404): /oykullan
+[16/11/2019, 04:16] (komut) Marc_Delgado(1404): /oykullan
+[16/11/2019, 04:16] (komut) Biddy_Boelter(1): /oykullan
+[16/11/2019, 04:17] (komut) Biddy_Boelter(1): /oykullan
+[16/11/2019, 04:17] 538(25.5.84.199) sunucuya giriþ yaptý.
+[16/11/2019, 04:17] (komut) Orkun(17): /avratlar
+[16/11/2019, 04:17] (komut) Biddy_Boelter(1): /helper
+[16/11/2019, 04:17] (komut) Sucre_Zaragoza(32): /oykullan
+[16/11/2019, 04:17] (komut) Sucre_Zaragoza(32): /oykullan
+[16/11/2019, 04:17] (komut) Biddy_Boelter(1): /karakter
+[16/11/2019, 04:17] (komut) Sucre_Zaragoza(32): /oykullan
+[16/11/2019, 04:17] (komut) Sucre_Zaragoza(32): /oykullan
+[16/11/2019, 04:17] (komut) Sucre_Zaragoza(32): /oykullan
+[16/11/2019, 04:17] (komut) Orkun(17): /aduty
+[16/11/2019, 04:17] (komut) Sucre_Zaragoza(32): /oykullan
+[16/11/2019, 04:17] (komut) Sucre_Zaragoza(32): /oykullan
+[16/11/2019, 04:17] (komut) Biddy_Boelter(1): /cek 1
+[16/11/2019, 04:17] Berkay(1), Allen_Hox(17) adlý kiþiyi yanýna çekti.
+[16/11/2019, 04:17] (komut) Sucre_Zaragoza(32): /oykullan
+[16/11/2019, 04:17] (komut) Biddy_Boelter(1): /a /git kullanabiliyon
+[16/11/2019, 04:17] [adm-chat] Biddy_Boelter(1): /git kullanabiliyon
+[16/11/2019, 04:17] (komut) Biddy_Boelter(1): /a amck
+[16/11/2019, 04:17] [adm-chat] Biddy_Boelter(1): amck
+[16/11/2019, 04:17] (komut) Marc_Delgado(1404): /git
+[16/11/2019, 04:17] (komut) Allen_Hox(17): /oykullan
+[16/11/2019, 04:17] (komut) Marc_Delgado(1404): /gethere 1
+[16/11/2019, 04:17] NULL(1404), Allen_Hox(17) adlý kiþiyi yanýna çekti.
+[16/11/2019, 04:17] (komut) Biddy_Boelter(1): /ahelp
+[16/11/2019, 04:17] (komut) Allen_Hox(17): /oykullan
+[16/11/2019, 04:17] (komut) Marc_Delgado(1404): /ahelp
+[16/11/2019, 04:18] (komut) Sucre_Zaragoza(32): /yardim
+[16/11/2019, 04:18] (komut) Marc_Delgado(1404): /anick
+[16/11/2019, 04:18] (komut) Biddy_Boelter(1): /adekor
+[16/11/2019, 04:18] (komut) Sucre_Zaragoza(32): /soyun
+[16/11/2019, 04:18] (komut) Biddy_Boelter(1): /a /adekor
+[16/11/2019, 04:18] [adm-chat] Biddy_Boelter(1): /adekor
+[16/11/2019, 04:18] [cmd_me] Sucre_Zaragoza(32) kýyafetlerini çýkardý.
+[16/11/2019, 04:18] (komut) Sucre_Zaragoza(32): /soyun
+[16/11/2019, 04:18] [cmd_me] Sucre_Zaragoza(32) kýyafetlerini giydi.
+[16/11/2019, 04:18] (komut) Allen_Hox(17): /adekor
+[16/11/2019, 04:18] (komut) Sucre_Zaragoza(32): /soyun
+[16/11/2019, 04:18] [cmd_me] Sucre_Zaragoza(32) kýyafetlerini çýkardý.
+[16/11/2019, 04:18] (komut) Marc_Delgado(1404): /anick 2 Niyazi
+[16/11/2019, 04:18] Niyazi(1404), Marc_Delgado(1404) adlý kiþinin yetkili ismini Niyazi yaptý.
+[16/11/2019, 04:18] (komut) Sucre_Zaragoza(32): /soyun
+[16/11/2019, 04:18] [cmd_me] Sucre_Zaragoza(32) kýyafetlerini giydi.
+[16/11/2019, 04:18] (komut) Sucre_Zaragoza(32): /adekor
+[16/11/2019, 04:18] (komut) Biddy_Boelter(1): /adekor
+[16/11/2019, 04:18] (komut) Marc_Delgado(1404): /anick 2 Yusuf
+[16/11/2019, 04:18] Yusuf(1404), Marc_Delgado(1404) adlý kiþinin yetkili ismini Yusuf yaptý.
+[16/11/2019, 04:18] (komut) Sucre_Zaragoza(32): /fallover 1
+[16/11/2019, 04:18] (komut) Allen_Hox(17): /oocbakiye
+[16/11/2019, 04:18] (komut) Marc_Delgado(1404): /aduty
+[16/11/2019, 04:18] (komut) Sucre_Zaragoza(32): /adekor
+[16/11/2019, 04:18] (komut) Allen_Hox(17): /yardim
+[16/11/2019, 04:18] (komut) Biddy_Boelter(1): /ausc
+[16/11/2019, 04:18] (komut) Biddy_Boelter(1): /asuc
+[16/11/2019, 04:18] (komut) Sucre_Zaragoza(32): /adekor
+[16/11/2019, 04:18] (komut) Allen_Hox(17): /adminyardim
+[16/11/2019, 04:18] (komut) Yusuf(1404): /goto 0
+[16/11/2019, 04:18] Yusuf(1404), Biddy_Boelter(1) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:18] (komut) Yusuf(1404): /goto 1
+[16/11/2019, 04:18] Yusuf(1404), Allen_Hox(17) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:18] (komut) Biddy_Boelter(1): /a /asuc
+[16/11/2019, 04:18] [adm-chat] Biddy_Boelter(1): /asuc
+[16/11/2019, 04:18] (komut) Yusuf(1404): /goto 2
+[16/11/2019, 04:18] (komut) Sucre_Zaragoza(32): /asuc
+[16/11/2019, 04:18] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:18] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:18] (komut) Allen_Hox(17): /asuc
+[16/11/2019, 04:18] (komut) Biddy_Boelter(1): /asuc
+[16/11/2019, 04:18] Orkun listeden suç sildi. (SID: 64 | Ýsim: Cinayet)
+[16/11/2019, 04:18] (komut) Yusuf(1404): /sucekle
+[16/11/2019, 04:18] (komut) Allen_Hox(17): /asuc
+[16/11/2019, 04:19] (komut) Sucre_Zaragoza(32): /asuc
+[16/11/2019, 04:19] (komut) Yusuf(1404): /asuc
+[16/11/2019, 04:19] (komut) Biddy_Boelter(1): /asuc
+[16/11/2019, 04:19] Berkay listeden suç sildi. (SID: 54 | Ýsim: Ýzinsiz Giriþ)
+[16/11/2019, 04:19] Orkun listeye bir suc ekledi. (SID: 54 | Ýsim: Cinayet | Dakika: 30)
+[16/11/2019, 04:19] (komut) Yusuf(1404): /asuc
+[16/11/2019, 04:19] (komut) Biddy_Boelter(1): /asuc
+[16/11/2019, 04:19] Darly listeye bir suc ekledi. (SID: 64 | Ýsim: 1 | Dakika: 30)
+[16/11/2019, 04:19] (komut) Allen_Hox(17): /adekor
+[16/11/2019, 04:19] (komut) Sucre_Zaragoza(32): /adekor
+[16/11/2019, 04:19] Yusuf listeye bir suc ekledi. (SID: 0 | Ýsim: Terorizm | Dakika: 999999999)
+[16/11/2019, 04:19] (komut) Biddy_Boelter(1): /aev
+[16/11/2019, 04:19] (komut) Yusuf(1404): /asuc
+[16/11/2019, 04:19] Yusuf listeden suç sildi. (SID: 71 | Ýsim: Terorizm)
+[16/11/2019, 04:19] (komut) Sucre_Zaragoza(32): /adekor
+[16/11/2019, 04:19] (komut) Allen_Hox(17): /adekor
+[16/11/2019, 04:19] (komut) Biddy_Boelter(1): /ahelp
+[16/11/2019, 04:19] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:19] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:19] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:19] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:19] (komut) Biddy_Boelter(1): /agps
+[16/11/2019, 04:19] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:19] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:19] (komut) Sucre_Zaragoza(32): /adekor
+[16/11/2019, 04:19] (komut) Allen_Hox(17): /adekor
+[16/11/2019, 04:19] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:19] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:19] (komut) Biddy_Boelter(1): /a /agps
+[16/11/2019, 04:19] [adm-chat] Biddy_Boelter(1): /agps
+[16/11/2019, 04:19] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:19] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:19] (komut) Biddy_Boelter(1): /gps
+[16/11/2019, 04:19] (komut) Yusuf(1404): /agps
+[16/11/2019, 04:19] (komut) Sucre_Zaragoza(32): /adekor
+[16/11/2019, 04:19] (komut) Allen_Hox(17): /agps
+[16/11/2019, 04:19] (komut) Sucre_Zaragoza(32): /aps
+[16/11/2019, 04:19] (komut) Biddy_Boelter(1): /agps
+[16/11/2019, 04:19] (komut) Sucre_Zaragoza(32): /agps
+[16/11/2019, 04:19] (komut) Allen_Hox(17): /agps
+[16/11/2019, 04:19] (komut) Allen_Hox(17): /adekor
+[16/11/2019, 04:19] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:19] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:19] (komut) Sucre_Zaragoza(32): /agps
+[16/11/2019, 04:19] (komut) Allen_Hox(17): /adekor
+[16/11/2019, 04:20] (komut) Biddy_Boelter(1): /ahelp
+[16/11/2019, 04:20] (komut) Sucre_Zaragoza(32): /adekor
+[16/11/2019, 04:20] (komut) Biddy_Boelter(1): /raporkontrol
+[16/11/2019, 04:20] (komut) Yusuf(1404): /ahelp
+[16/11/2019, 04:20] (komut) Allen_Hox(17): /adekor
+[16/11/2019, 04:20] (komut) Biddy_Boelter(1): /a raporkontrol
+[16/11/2019, 04:20] [adm-chat] Biddy_Boelter(1): raporkontrol
+[16/11/2019, 04:20] (komut) Biddy_Boelter(1): /A SLADFASKFASF
+[16/11/2019, 04:20] [adm-chat] Biddy_Boelter(1): SLADFASKFASF
+[16/11/2019, 04:20] (komut) Biddy_Boelter(1): /raporkontrol
+[16/11/2019, 04:20] (komut) Sucre_Zaragoza(32): /raporkontrol
+[16/11/2019, 04:20] (komut) Yusuf(1404): /aatm
+[16/11/2019, 04:20] (komut) Allen_Hox(17): /raporkontrol
+[16/11/2019, 04:20] (komut) Biddy_Boelter(1): /ahelp
+[16/11/2019, 04:20] (komut) Yusuf(1404): /raporkontrol
+[16/11/2019, 04:20] (komut) Allen_Hox(17): /raporkontrol
+[16/11/2019, 04:20] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:20] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:20] (komut) Allen_Hox(17): /adminyardim
+[16/11/2019, 04:20] (komut) Sucre_Zaragoza(32): /adekor
+[16/11/2019, 04:20] (komut) Allen_Hox(17): /aduty
+[16/11/2019, 04:20] (komut) Orkun(17): /ahelp
+[16/11/2019, 04:20] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:20] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:20] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:20] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:20] (komut) Sucre_Zaragoza(32): /git 1
+[16/11/2019, 04:20] Darly(32), Orkun(17) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:20] (komut) Yusuf(1404): /a ahelp
+[16/11/2019, 04:20] [adm-chat] Yusuf(1404): ahelp
+[16/11/2019, 04:20] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:20] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:20] (komut) Sucre_Zaragoza(32): /mobilya
+[16/11/2019, 04:20] (komut) Sucre_Zaragoza(32): /mobilya
+[16/11/2019, 04:20] (komut) Orkun(17): /ahelp
+[16/11/2019, 04:20] (komut) Yusuf(1404): /ahlep
+[16/11/2019, 04:20] (komut) Sucre_Zaragoza(32): /mobilya
+[16/11/2019, 04:20] (komut) Yusuf(1404): /ahelp
+[16/11/2019, 04:20] (komut) Orkun(17): /herkesezirh
+[16/11/2019, 04:20] Orkun(17) sunucudaki herkese zýrh verdi. (4 kiþi)
+[16/11/2019, 04:20] (komut) Sucre_Zaragoza(32): /mobilya
+[16/11/2019, 04:20] (komut) Yusuf(1404): /sokaktansesler sa
+[16/11/2019, 04:20] [ss] Yusuf(1404): sa
+[16/11/2019, 04:20] (komut) Sucre_Zaragoza(32): /ev
+[16/11/2019, 04:20] (komut) Orkun(17): /ysilahver
+[16/11/2019, 04:21] (komut) Sucre_Zaragoza(32): /git 3
+[16/11/2019, 04:21] (komut) Orkun(17): /ysilahver 15 31
+[16/11/2019, 04:21] Orkun(17), Orkun(17) adlý kiþiye Cane model silah verdi.
+[16/11/2019, 04:21] Orkun(17), Yusuf(1404) adlý kiþiye Cane model silah verdi.
+[16/11/2019, 04:21] Orkun(17), Sucre_Zaragoza(32) adlý kiþiye Cane model silah verdi.
+[16/11/2019, 04:21] (komut) Sucre_Zaragoza(32): /git 2
+[16/11/2019, 04:21] Darly(32), Yusuf(1404) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:21] (komut) Sucre_Zaragoza(32): /mulklerim
+[16/11/2019, 04:21] (komut) Orkun(17): /ysilahver 31 31
+[16/11/2019, 04:21] Orkun(17), Orkun(17) adlý kiþiye M4 model silah verdi.
+[16/11/2019, 04:21] Orkun(17), Yusuf(1404) adlý kiþiye M4 model silah verdi.
+[16/11/2019, 04:21] Orkun(17), Sucre_Zaragoza(32) adlý kiþiye M4 model silah verdi.
+[16/11/2019, 04:21] Orkun(17), Yusuf(1404) tarafýndan öldürüldü. (sebep: 31)
+[16/11/2019, 04:21] Sucre_Zaragoza(32), Yusuf(1404) tarafýndan öldürüldü. (sebep: 31)
+[16/11/2019, 04:21] (komut) Biddy_Boelter(1): /aev
+[16/11/2019, 04:21] (komut) Biddy_Boelter(1): /aev yarat
+[16/11/2019, 04:21] Berkay(1), yeni bir ev oluþturdu. (ID: 0)
+[16/11/2019, 04:21] (komut) Biddy_Boelter(1): /cek
+[16/11/2019, 04:21] (komut) Sucre_Zaragoza(32): /revive 3
+[16/11/2019, 04:21] Darly(32), Sucre_Zaragoza(32) adlý kiþiyi yaralý durumdan çýkardý.
+[16/11/2019, 04:21] (komut) Biddy_Boelter(1): /cek 1
+[16/11/2019, 04:21] Berkay(1), Orkun(17) adlý kiþiyi yanýna çekti.
+[16/11/2019, 04:21] (komut) Biddy_Boelter(1): /cek 2
+[16/11/2019, 04:21] Berkay(1), Yusuf(1404) adlý kiþiyi yanýna çekti.
+[16/11/2019, 04:21] (komut) Yusuf(1404): /revive 3
+[16/11/2019, 04:21] (komut) Biddy_Boelter(1): /cek 3
+[16/11/2019, 04:21] Berkay(1), Sucre_Zaragoza(32) adlý kiþiyi yanýna çekti.
+[16/11/2019, 04:21] (komut) Orkun(17): /ysilahver 31 9999999999
+[16/11/2019, 04:21] Orkun(17), Orkun(17) adlý kiþiye M4 model silah verdi.
+[16/11/2019, 04:21] (komut) Biddy_Boelter(1): /aparaver 3 750000
+[16/11/2019, 04:21] Berkay(1), Sucre_Zaragoza(32) adlý kiþiye $750,000 verdi.
+[16/11/2019, 04:21] (komut) Orkun(17): /ahelp
+[16/11/2019, 04:21] (komut) Sucre_Zaragoza(32): /satinal
+[16/11/2019, 04:21] Sucre_Zaragoza(32), bir ev satýn aldý. (SQL: 190)
+[16/11/2019, 04:21] (komut) Orkun(17): /aparaver
+[16/11/2019, 04:21] (komut) Sucre_Zaragoza(32): /ev
+[16/11/2019, 04:21] Marc_Delgado(25.74.73.86) oyundan çýkýþ yaptý.
+[16/11/2019, 04:21] (komut) Sucre_Zaragoza(32): /ev
+[16/11/2019, 04:21] [cmd_me] Sucre_Zaragoza(32) ýþýklarý kapatýr.
+[16/11/2019, 04:22] (komut) Sucre_Zaragoza(32): /ev
+[16/11/2019, 04:22] [cmd_me] Sucre_Zaragoza(32) ýþýklarý açar.
+[16/11/2019, 04:22] (komut) Sucre_Zaragoza(32): /ev
+[16/11/2019, 04:22] 375(25.74.73.86) sunucuya giriþ yaptý.
+[16/11/2019, 04:22] (komut) Orkun(17): /ahelp
+[16/11/2019, 04:22] (komut) Orkun(17): /acan
+[16/11/2019, 04:22] (komut) Marc_Delgado(1404): /goto 3
+[16/11/2019, 04:22] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:22] Orkun(17), Marc_Delgado(1404) tarafýndan öldürüldü. (sebep: 24)
+[16/11/2019, 04:22] (komut) Marc_Delgado(1404): /goto 2
+[16/11/2019, 04:22] (komut) Sucre_Zaragoza(32): /silahbirak
+[16/11/2019, 04:22] (komut) Marc_Delgado(1404): /goto 1
+[16/11/2019, 04:22] Yusuf(1404), Orkun(17) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:22] (komut) Sucre_Zaragoza(32): /yoket silah
+[16/11/2019, 04:22] [cmd_me] Sucre_Zaragoza(32) üzerindeki Cane model silahý yok eder.
+[16/11/2019, 04:22] (komut) Orkun(17): /ysilahver 31 55555
+[16/11/2019, 04:22] Orkun(17), Orkun(17) adlý kiþiye M4 model silah verdi.
+[16/11/2019, 04:22] Orkun(17), Marc_Delgado(1404) adlý kiþiye M4 model silah verdi.
+[16/11/2019, 04:22] (komut) Orkun(17): /ah
+[16/11/2019, 04:23] (komut) Marc_Delgado(1404): /ycanver 
+[16/11/2019, 04:23] (komut) Marc_Delgado(1404): /ycanver 100
+[16/11/2019, 04:23] Yusuf(1404), Biddy_Boelter(1) adlý kiþinin canýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:23] Yusuf(1404), Orkun(17) adlý kiþinin canýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:23] Yusuf(1404), Marc_Delgado(1404) adlý kiþinin canýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:23] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþinin canýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:23] (komut) Sucre_Zaragoza(32): /garaj
+[16/11/2019, 04:23] (komut) Orkun(17): /oyuncuduzenle
+[16/11/2019, 04:23] (komut) Sucre_Zaragoza(32): /agaraj
+[16/11/2019, 04:23] (komut) Marc_Delgado(1404): /agaraj
+[16/11/2019, 04:23] (komut) Sucre_Zaragoza(32): /agaraj yarat Yarak
+[16/11/2019, 04:23] (komut) Orkun(17): /ah
+[16/11/2019, 04:23] (komut) Marc_Delgado(1404): /ahel
+[16/11/2019, 04:23] (komut) Marc_Delgado(1404): /ahelp
+[16/11/2019, 04:23] (komut) Orkun(17): /agaraj
+[16/11/2019, 04:23] (komut) Sucre_Zaragoza(32): /agaraj yarat
+[16/11/2019, 04:23] (komut) Biddy_Boelter(1): /araclarim
+[16/11/2019, 04:23] (komut) Sucre_Zaragoza(32): /araclarim
+[16/11/2019, 04:23] (komut) Biddy_Boelter(1): /acek 255
+[16/11/2019, 04:23] Berkay(1) bir aracý yanýna çekti. (SQL: 21339)
+[16/11/2019, 04:23] (komut) Sucre_Zaragoza(32): /acek 479
+[16/11/2019, 04:23] Darly(32) bir aracý yanýna çekti. (SQL: 21659)
+[16/11/2019, 04:23] [cmd_ame] Biddy_Boelter(1) sað eliyle kontaðý çevirir ve aracýn motorunu kapatýr.
+[16/11/2019, 04:23] (komut) Biddy_Boelter(1): /garaj
+[16/11/2019, 04:23] (komut) Orkun(17): /gir
+[16/11/2019, 04:23] (komut) Orkun(17): /garaj
+[16/11/2019, 04:23] (komut) Sucre_Zaragoza(32): /garaj
+[16/11/2019, 04:23] (komut) Marc_Delgado(1404): /garaj
+[16/11/2019, 04:23] (komut) Sucre_Zaragoza(32): /garaj
+[16/11/2019, 04:24] (komut) Marc_Delgado(1404): /araclarimx
+[16/11/2019, 04:24] (komut) Marc_Delgado(1404): /araclarim
+[16/11/2019, 04:24] (komut) Orkun(17): /garj
+[16/11/2019, 04:24] (komut) Orkun(17): /garaj
+[16/11/2019, 04:24] (komut) Biddy_Boelter(1): /garaj
+[16/11/2019, 04:24] (komut) Sucre_Zaragoza(32): /agaraj
+[16/11/2019, 04:24] (komut) Marc_Delgado(1404): /ayarat
+[16/11/2019, 04:24] (komut) Sucre_Zaragoza(32): /agaraj cikis
+[16/11/2019, 04:24] (komut) Orkun(17): /agaraj
+[16/11/2019, 04:24] (komut) Marc_Delgado(1404): /ahelp
+[16/11/2019, 04:24] (komut) Sucre_Zaragoza(32): /agaraj cikis 1
+[16/11/2019, 04:24] (komut) Sucre_Zaragoza(32): /agaraj cikis
+[16/11/2019, 04:24] (komut) Biddy_Boelter(1): /acek 255
+[16/11/2019, 04:24] Berkay(1) bir aracý yanýna çekti. (SQL: 21339)
+[16/11/2019, 04:24] (komut) Biddy_Boelter(1): /acek 255
+[16/11/2019, 04:24] Berkay(1) bir aracý yanýna çekti. (SQL: 21339)
+[16/11/2019, 04:24] (komut) Sucre_Zaragoza(32): /agaraj cikis
+[16/11/2019, 04:24] (komut) Marc_Delgado(1404): /aracduzenle
+[16/11/2019, 04:24] (komut) Orkun(17): /agaraj 10 cikis
+[16/11/2019, 04:24] (komut) Orkun(17): /agaraj 10 cikis
+[16/11/2019, 04:24] (komut) Marc_Delgado(1404): /aracyarat 
+[16/11/2019, 04:24] [cmd_ame] Biddy_Boelter(1) anahtarý saat yönünde çevirir ve aracýn motorunu açmaya çalýþýr.
+[16/11/2019, 04:24] [cmd_ame] Biddy_Boelter(1) sað eliyle kontaðý çevirir ve aracýn motorunu kapatýr.
+[16/11/2019, 04:24] (komut) Biddy_Boelter(1): /garaj
+[16/11/2019, 04:24] (komut) Marc_Delgado(1404): /aracyarat turismo 0 0
+[16/11/2019, 04:24] Yusuf(1404), Turismo model araç yarattý.
+[16/11/2019, 04:24] (komut) Biddy_Boelter(1): /liderayarl
+[16/11/2019, 04:24] (komut) Biddy_Boelter(1): /garaj
+[16/11/2019, 04:24] (komut) Orkun(17): /ah
+[16/11/2019, 04:25] (komut) Marc_Delgado(1404): /aracduzenle
+[16/11/2019, 04:25] (komut) Sucre_Zaragoza(32): /kit
+[16/11/2019, 04:25] (komut) Orkun(17): /kit
+[16/11/2019, 04:25] (komut) Biddy_Boelter(1): /git
+[16/11/2019, 04:25] (komut) Orkun(17): /git
+[16/11/2019, 04:25] (komut) Sucre_Zaragoza(32): /kit
+[16/11/2019, 04:25] (komut) Sucre_Zaragoza(32): /kit
+[16/11/2019, 04:25] (komut) Marc_Delgado(1404): /aracduzenle 255 sahip
+[16/11/2019, 04:25] (komut) Sucre_Zaragoza(32): /git
+[16/11/2019, 04:25] (komut) Marc_Delgado(1404): /aracduzenle 255 sahip 2
+[16/11/2019, 04:25] Yusuf bir aracýn sahibini deðiþtirdi. (ID: 77 | Sahip: Yok)
+[16/11/2019, 04:25] (komut) Orkun(17): /git pompa
+[16/11/2019, 04:25] (komut) Sucre_Zaragoza(32): /git tnoktasi
+[16/11/2019, 04:25] (komut) Orkun(17): /git pompa 1
+[16/11/2019, 04:25] (komut) Sucre_Zaragoza(32): /git tnoktasi 1
+[16/11/2019, 04:25] (komut) Sucre_Zaragoza(32): /git tnoktasi 2
+[16/11/2019, 04:25] (komut) Sucre_Zaragoza(32): /git tnoktasi 3
+[16/11/2019, 04:25] (komut) Orkun(17): /git pompa 1
+[16/11/2019, 04:25] (komut) Marc_Delgado(1404): /isbasi
+[16/11/2019, 04:25] (komut) Orkun(17): /git pompa 3
+[16/11/2019, 04:25] (komut) Sucre_Zaragoza(32): /git asgh
+[16/11/2019, 04:25] (komut) Marc_Delgado(1404): /rozet
+[16/11/2019, 04:25] (komut) Orkun(17): /git pompa 2
+[16/11/2019, 04:25] (komut) Orkun(17): /git pigpen
+[16/11/2019, 04:25] (komut) Sucre_Zaragoza(32): /git fbi
+[16/11/2019, 04:25] (komut) Marc_Delgado(1404): /ymac
+[16/11/2019, 04:25] [cmd_ame] Marc_Delgado(1404) anahtarý saat yönünde çevirir ve aracýn motorunu açmaya çalýþýr.
+[16/11/2019, 04:25] (komut) Orkun(17): /ggo
+[16/11/2019, 04:25] (komut) Orkun(17): /ah
+[16/11/2019, 04:25] (komut) Marc_Delgado(1404): /garaj
+[16/11/2019, 04:25] (komut) Marc_Delgado(1404): /garaj
+[16/11/2019, 04:25] (komut) Marc_Delgado(1404): /garaj
+[16/11/2019, 04:26] (komut) Orkun(17): /go
+[16/11/2019, 04:26] (komut) Sucre_Zaragoza(32): /git 0
+[16/11/2019, 04:26] Darly(32), Biddy_Boelter(1) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:26] (komut) Marc_Delgado(1404): /ymac
+[16/11/2019, 04:26] [cmd_ame] Marc_Delgado(1404) sað eliyle kontaðý çevirir ve aracýn motorunu kapatýr.
+[16/11/2019, 04:26] (komut) Marc_Delgado(1404): /garaj
+[16/11/2019, 04:26] (komut) Orkun(17): /get
+[16/11/2019, 04:26] (komut) Marc_Delgado(1404): /garaj
+[16/11/2019, 04:26] (komut) Marc_Delgado(1404): /ymac
+[16/11/2019, 04:26] [cmd_ame] Marc_Delgado(1404) anahtarý saat yönünde çevirir ve aracýn motorunu açmaya çalýþýr.
+[16/11/2019, 04:26] (komut) Orkun(17): /git
+[16/11/2019, 04:26] (komut) Sucre_Zaragoza(32): /cek 1
+[16/11/2019, 04:26] Darly(32), Orkun(17) adlý kiþiyi yanýna çekti.
+[16/11/2019, 04:26] (komut) Orkun(17): /git 1
+[16/11/2019, 04:26] (komut) Marc_Delgado(1404): /park
+[16/11/2019, 04:26] (komut) Marc_Delgado(1404): /atamiret
+[16/11/2019, 04:26] (komut) Marc_Delgado(1404): /atamiret
+[16/11/2019, 04:27] (komut) Marc_Delgado(1404): /atamir
+[16/11/2019, 04:27] (komut) Marc_Delgado(1404): /atamir
+[16/11/2019, 04:27] (komut) Marc_Delgado(1404): /atamir
+[16/11/2019, 04:27] (komut) Marc_Delgado(1404): /atamir
+[16/11/2019, 04:27] (komut) Sucre_Zaragoza(32): /git grotti
+[16/11/2019, 04:27] (komut) Marc_Delgado(1404): /atamir
+[16/11/2019, 04:27] (komut) Orkun(17): /git grotti
+[16/11/2019, 04:27] (komut) Marc_Delgado(1404): /amotor
+[16/11/2019, 04:27] [cmd_ame] Marc_Delgado(1404) sað eliyle kontaðý çevirir ve aracýn motorunu kapatýr.
+[16/11/2019, 04:27] (komut) Marc_Delgado(1404): /park
+[16/11/2019, 04:27] (komut) Marc_Delgado(1404): /goto 2
+[16/11/2019, 04:27] (komut) Sucre_Zaragoza(32): /cek 0
+[16/11/2019, 04:27] Darly(32), Biddy_Boelter(1) adlý kiþiyi yanýna çekti.
+[16/11/2019, 04:27] (komut) Marc_Delgado(1404): /goto 3
+[16/11/2019, 04:27] Yusuf(1404), Sucre_Zaragoza(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:27] (komut) Orkun(17): /asil
+[16/11/2019, 04:27] (komut) Orkun(17): /(ah
+[16/11/2019, 04:27] (komut) Marc_Delgado(1404): /asil
+[16/11/2019, 04:27] (komut) Orkun(17): /ah
+[16/11/2019, 04:27] (komut) Marc_Delgado(1404): /aracsil
+[16/11/2019, 04:27] (komut) Marc_Delgado(1404): /aracduzenle
+[16/11/2019, 04:28] (komut) Marc_Delgado(1404): /ahelp
+[16/11/2019, 04:28] (komut) Marc_Delgado(1404): /aracsil
+[16/11/2019, 04:28] (komut) Orkun(17): /ysilahver
+[16/11/2019, 04:28] (komut) Sucre_Zaragoza(32): /asilahver 3 31
+[16/11/2019, 04:28] Darly(32), Sucre_Zaragoza(32) adlý kiþiye M4 model silah verdi.
+[16/11/2019, 04:28] (komut) Orkun(17): /ysilahver 31 5555
+[16/11/2019, 04:28] (komut) Marc_Delgado(1404): /aracsil 330
+[16/11/2019, 04:28] Yusuf(1404) bir aracý sildi. (SAHIP: 18616 / Model: S.W.A.T)
+[16/11/2019, 04:28] (komut) Orkun(17): /ysilahver 31 5555
+[16/11/2019, 04:28] (komut) Marc_Delgado(1404): /aracsil 271
+[16/11/2019, 04:28] Yusuf(1404) bir aracý sildi. (SAHIP: 21405 / Model: Benson)
+[16/11/2019, 04:28] (komut) Marc_Delgado(1404): /aracsil 473
+[16/11/2019, 04:28] Yusuf(1404) bir aracý sildi. (SAHIP: 21572 / Model: Huntley)
+[16/11/2019, 04:28] (komut) Marc_Delgado(1404): /aracsil 388
+[16/11/2019, 04:28] Yusuf(1404) bir aracý sildi. (SAHIP: 20493 / Model: LVPD Devriye Aracý)
+[16/11/2019, 04:28] (komut) Marc_Delgado(1404): /aracsil 384
+[16/11/2019, 04:28] Yusuf(1404) bir aracý sildi. (SAHIP: 21643 / Model: Walton)
+[16/11/2019, 04:28] (komut) Marc_Delgado(1404): /aracsil 377
+[16/11/2019, 04:28] Yusuf(1404) bir aracý sildi. (SAHIP: 20201 / Model: Faggio)
+[16/11/2019, 04:28] (komut) Marc_Delgado(1404): /aracsil 364
+[16/11/2019, 04:28] Yusuf(1404) bir aracý sildi. (SAHIP: 19968 / Model: LSPD Devriye Aracý)
+[16/11/2019, 04:28] (komut) Marc_Delgado(1404): /aracsil 442
+[16/11/2019, 04:28] Yusuf(1404) bir aracý sildi. (SAHIP: 21459 / Model: Tahoma)
+[16/11/2019, 04:28] (komut) Marc_Delgado(1404): /aracsil 446
+[16/11/2019, 04:28] Yusuf(1404) bir aracý sildi. (SAHIP: 21393 / Model: Maverick)
+[16/11/2019, 04:29] (komut) Marc_Delgado(1404): /aracsil 366
+[16/11/2019, 04:29] Yusuf(1404) bir aracý sildi. (SAHIP: 20385 / Model: Stratum)
+[16/11/2019, 04:29] (komut) Marc_Delgado(1404): /aracsil 466
+[16/11/2019, 04:29] Yusuf(1404) bir aracý sildi. (SAHIP: 21537 / Model: Feltzer)
+[16/11/2019, 04:29] (komut) Marc_Delgado(1404): /aracsil 465
+[16/11/2019, 04:29] Yusuf(1404) bir aracý sildi. (SAHIP: 21642 / Model: Benson)
+[16/11/2019, 04:29] (komut) Marc_Delgado(1404): /aracsil 23
+[16/11/2019, 04:29] Yusuf(1404) bir aracý sildi. (SAHIP: 16562 / Model: Benson)
+[16/11/2019, 04:29] (komut) Marc_Delgado(1404): /aracsil 168
+[16/11/2019, 04:29] Yusuf(1404) bir aracý sildi. (SAHIP: 21657 / Model: Greenwood)
+[16/11/2019, 04:29] (komut) Marc_Delgado(1404): /aracsil 164
+[16/11/2019, 04:29] Yusuf(1404) bir aracý sildi. (SAHIP: 21386 / Model: Uranus)
+[16/11/2019, 04:29] (komut) Marc_Delgado(1404): /aracsil 470
+[16/11/2019, 04:29] Yusuf(1404) bir aracý sildi. (SAHIP: 21554 / Model: Freeway)
+[16/11/2019, 04:29] (komut) Marc_Delgado(1404): /aracsil 474
+[16/11/2019, 04:29] Yusuf(1404) bir aracý sildi. (SAHIP: 21597 / Model: Freeway)
+[16/11/2019, 04:29] (komut) Marc_Delgado(1404): /aduty
+[16/11/2019, 04:29] (komut) Yusuf(1404): /aracsil 282
+[16/11/2019, 04:29] Yusuf(1404) bir aracý sildi. (SAHIP: 21611 / Model: Sanchez)
+[16/11/2019, 04:29] (komut) Yusuf(1404): /aracsil 475
+[16/11/2019, 04:29] Yusuf(1404) bir aracý sildi. (SAHIP: 21576 / Model: NRG-500)
+[16/11/2019, 04:29] (komut) Sucre_Zaragoza(32): /asilahver 3 31 999
+[16/11/2019, 04:29] (komut) Sucre_Zaragoza(32): /asilahver 3 31 500
+[16/11/2019, 04:29] Darly(32), Sucre_Zaragoza(32) adlý kiþiye M4 model silah verdi.
+[16/11/2019, 04:29] Yusuf(1404), Orkun(17) tarafýndan öldürüldü. (sebep: 31)
+[16/11/2019, 04:29] (komut) Sucre_Zaragoza(32): /aduty
+[16/11/2019, 04:30] (komut) Yusuf(1404): /aracsil 467
+[16/11/2019, 04:30] Yusuf(1404) bir aracý sildi. (SAHIP: 21547 / Model: Benson)
+[16/11/2019, 04:30] (komut) Yusuf(1404): /tokatla
+[16/11/2019, 04:30] (komut) Orkun(17): /ycan
+[16/11/2019, 04:30] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:30] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:30] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:30] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:30] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:30] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Orkun(17): /slap
+[16/11/2019, 04:30] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Darly(32): /atm
+[16/11/2019, 04:30] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Yusuf(1404): /ahelp
+[16/11/2019, 04:30] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:30] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Darly(32): /slap orkun
+[16/11/2019, 04:30] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Darly(32): /slap orkun
+[16/11/2019, 04:30] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Darly(32): /slap orkun
+[16/11/2019, 04:30] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Darly(32): /slap orkun
+[16/11/2019, 04:30] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Darly(32): /slap orkun
+[16/11/2019, 04:30] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Darly(32): /slap orkun
+[16/11/2019, 04:30] Darly(32), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Orkun(17): /slap 3
+[16/11/2019, 04:30] (komut) Darly(32): /slap yusuf
+[16/11/2019, 04:30] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:30] (komut) Darly(32): /slap yusuf
+[16/11/2019, 04:30] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Darly(32): /slap yusuf
+[16/11/2019, 04:31] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Darly(32): /slap yusuf
+[16/11/2019, 04:31] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Darly(32): /slap yusuf
+[16/11/2019, 04:31] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Darly(32): /slap yusuf
+[16/11/2019, 04:31] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Darly(32): /slap yusuf
+[16/11/2019, 04:31] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /aduty
+[16/11/2019, 04:31] Allen Hox(HESAP ID: 126) can hilesi kullanýyor olabilir. (#015)
+[16/11/2019, 04:31] (komut) Darly(32): /slap yusuf
+[16/11/2019, 04:31] Darly(32), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Allen_Hox(17): /aduty
+[16/11/2019, 04:31] (komut) Orkun(17): /git 3
+[16/11/2019, 04:31] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:31] (komut) Orkun(17): /git 3
+[16/11/2019, 04:31] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:31] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] Orkun(17), Darly(32) tarafýndan öldürüldü. (sebep: 31)
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Yusuf(1404): /tokatla 1
+[16/11/2019, 04:31] Yusuf(1404), Orkun(17) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Darly(32): /git
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Darly(32): /git mezarlýk
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Yusuf(1404): /ahelp
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Darly(32): /git mezarlýk
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Biddy_Boelter(1): /git int
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Yusuf(1404): /dondur 1
+[16/11/2019, 04:31] (komut) Orkun(17): /slap 2
+[16/11/2019, 04:31] Orkun(17), Yusuf(1404) adlý kiþiyi tokatladý.
+[16/11/2019, 04:31] (komut) Biddy_Boelter(1): /git interior
+[16/11/2019, 04:31] (komut) Darly(32): /git mezarlýk stadyum
+[16/11/2019, 04:31] (komut) Orkun(17): /freeze
+[16/11/2019, 04:31] (komut) Biddy_Boelter(1): /a /git interior
+[16/11/2019, 04:31] [adm-chat] Biddy_Boelter(1): /git interior
+[16/11/2019, 04:31] (komut) Darly(32): /git stadyum
+[16/11/2019, 04:31] (komut) Orkun(17): /dondur
+[16/11/2019, 04:31] (komut) Orkun(17): /dondur 2
+[16/11/2019, 04:31] (komut) Biddy_Boelter(1): /git interior
+[16/11/2019, 04:31] (komut) Darly(32): /git interior
+[16/11/2019, 04:31] (komut) Biddy_Boelter(1): /git interior
+[16/11/2019, 04:31] (komut) Yusuf(1404): /coz 2
+[16/11/2019, 04:31] (komut) Biddy_Boelter(1): /git interior
+[16/11/2019, 04:31] (komut) Orkun(17): /dondur 1
+[16/11/2019, 04:31] (komut) Biddy_Boelter(1): /git interior
+[16/11/2019, 04:31] (komut) Yusuf(1404): /coz 1
+[16/11/2019, 04:31] (komut) Biddy_Boelter(1): /A coz
+[16/11/2019, 04:31] [adm-chat] Biddy_Boelter(1): coz
+[16/11/2019, 04:31] (komut) Darly(32): /git interior
+[16/11/2019, 04:31] (komut) Orkun(17): /coz
+[16/11/2019, 04:32] (komut) Orkun(17): /coz 1
+[16/11/2019, 04:32] (komut) Yusuf(1404): /goto 2
+[16/11/2019, 04:32] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:32] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Biddy_Boelter(1): /git interior
+[16/11/2019, 04:32] (komut) Darly(32): /git interior
+[16/11/2019, 04:32] (komut) Orkun(17): /git 3
+[16/11/2019, 04:32] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Darly(32): /git interior
+[16/11/2019, 04:32] (komut) Biddy_Boelter(1): /git interior
+[16/11/2019, 04:32] (komut) Orkun(17): /git 3
+[16/11/2019, 04:32] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Orkun(17): /git 3
+[16/11/2019, 04:32] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:32] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Orkun(17): /git 2
+[16/11/2019, 04:32] Orkun(17), Yusuf(1404) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Darly(32): /git interior
+[16/11/2019, 04:32] (komut) Orkun(17): /git 1
+[16/11/2019, 04:32] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:32] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Orkun(17): /git 4
+[16/11/2019, 04:32] (komut) Orkun(17): /git 3
+[16/11/2019, 04:32] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:32] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:32] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Orkun(17): /git 0
+[16/11/2019, 04:32] Orkun(17), Biddy_Boelter(1) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Darly(32): /coz
+[16/11/2019, 04:32] (komut) Darly(32): /git interior
+[16/11/2019, 04:32] (komut) Biddy_Boelter(1): /git sf
+[16/11/2019, 04:32] (komut) Orkun(17): /git 0
+[16/11/2019, 04:32] Orkun(17), Biddy_Boelter(1) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Darly(32): /git interior
+[16/11/2019, 04:32] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:32] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Biddy_Boelter(1): /karakter
+[16/11/2019, 04:32] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:32] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Biddy_Boelter(1): /ahelp
+[16/11/2019, 04:32] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:32] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:32] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Darly(32): /git interior
+[16/11/2019, 04:32] (komut) Yusuf(1404): /goto 1
+[16/11/2019, 04:32] Yusuf(1404), Orkun(17) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:32] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:32] (komut) Darly(32): /git interior
+[16/11/2019, 04:33] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:33] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:33] (komut) Orkun(17): /git 3
+[16/11/2019, 04:33] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:33] (komut) Darly(32): /git interior
+[16/11/2019, 04:33] (komut) Orkun(17): /git 3
+[16/11/2019, 04:33] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:33] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:33] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:33] (komut) Orkun(17): /soyun
+[16/11/2019, 04:33] (komut) Darly(32): /git interior
+[16/11/2019, 04:33] [cmd_me] Orkun(17) kýyafetlerini çýkardý.
+[16/11/2019, 04:33] (komut) Orkun(17): /dance
+[16/11/2019, 04:33] (komut) Orkun(17): /dance 1
+[16/11/2019, 04:33] (komut) Orkun(17): /sexy
+[16/11/2019, 04:33] (komut) Yusuf(1404): /ycanver 100
+[16/11/2019, 04:33] Yusuf(1404), Orkun(17) adlý kiþinin canýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:33] Yusuf(1404), Yusuf(1404) adlý kiþinin canýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:33] (komut) Darly(32): /git interior
+[16/11/2019, 04:33] (komut) Orkun(17): /sexy 5
+[16/11/2019, 04:33] (komut) Orkun(17): /git 3
+[16/11/2019, 04:33] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:33] (komut) Darly(32): /git interior
+[16/11/2019, 04:33] (komut) Orkun(17): /git 3
+[16/11/2019, 04:33] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:33] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:33] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:33] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:33] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:33] (komut) Darly(32): /git interior
+[16/11/2019, 04:33] (komut) Orkun(17): /git 3
+[16/11/2019, 04:33] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:33] (komut) Orkun(17): /git 3
+[16/11/2019, 04:33] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:33] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:33] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:33] (komut) Darly(32): /git interior
+[16/11/2019, 04:33] (komut) Yusuf(1404): /silahal
+[16/11/2019, 04:34] (komut) Yusuf(1404): /asilahal
+[16/11/2019, 04:34] (komut) Orkun(17): /git 3
+[16/11/2019, 04:34] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:34] (komut) Darly(32): /git interior
+[16/11/2019, 04:34] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:34] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:34] (komut) Darly(32): /git interior
+[16/11/2019, 04:34] (komut) Orkun(17): /git 3
+[16/11/2019, 04:34] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:34] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:34] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:34] (komut) Orkun(17): /git 3
+[16/11/2019, 04:34] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:34] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:34] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:34] (komut) Orkun(17): /git 3
+[16/11/2019, 04:34] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:34] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:34] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:34] (komut) Orkun(17): /git 3
+[16/11/2019, 04:34] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:34] (komut) Darly(32): /git interior
+[16/11/2019, 04:34] (komut) Orkun(17): /ysilahver 5555
+[16/11/2019, 04:34] (komut) Orkun(17): /ysilahver 31 5555
+[16/11/2019, 04:34] Orkun(17), Orkun(17) adlý kiþiye M4 model silah verdi.
+[16/11/2019, 04:34] Orkun(17), Yusuf(1404) adlý kiþiye M4 model silah verdi.
+[16/11/2019, 04:34] Yusuf(HESAP ID: 375) hile yaptýðý için kicklendi. (#020)
+[16/11/2019, 04:34] Marc_Delgado(255.255.255.255) oyundan çýkýþ yaptý.
+[16/11/2019, 04:34] (komut) Orkun(17): /git 3
+[16/11/2019, 04:34] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:34] (komut) Darly(32): /git interior
+[16/11/2019, 04:34] Darly(32), Orkun(17) tarafýndan öldürüldü. (sebep: 31)
+[16/11/2019, 04:34] (komut) Orkun(17): /git 3
+[16/11/2019, 04:34] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:34] (komut) Darly(32): /git interior
+[16/11/2019, 04:34] (komut) Orkun(17): /git 3
+[16/11/2019, 04:34] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:34] (komut) Darly(32): /git interior
+[16/11/2019, 04:35] (komut) Darly(32): /git interior
+[16/11/2019, 04:35] (komut) Orkun(17): /git 3
+[16/11/2019, 04:35] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:35] (komut) Orkun(17): /git 3
+[16/11/2019, 04:35] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:35] 375(25.74.73.86) sunucuya giriþ yaptý.
+[16/11/2019, 04:35] (komut) Darly(32): /git interior
+[16/11/2019, 04:35] (komut) Biddy_Boelter(1): /sunucu
+[16/11/2019, 04:35] (komut) Orkun(17): /git 3
+[16/11/2019, 04:35] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:35] (komut) Darly(32): /git interior
+[16/11/2019, 04:35] (komut) Marc_Delgado(1404): /goto 3
+[16/11/2019, 04:35] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:35] (komut) Orkun(17): /git 3
+[16/11/2019, 04:35] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:35] (komut) Darly(32): /git interior
+[16/11/2019, 04:35] (komut) Orkun(17): /git 3
+[16/11/2019, 04:35] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:35] (komut) Orkun(17): /git 3
+[16/11/2019, 04:35] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:35] (komut) Marc_Delgado(1404): /afk
+[16/11/2019, 04:35] (komut) Darly(32): /git interior
+[16/11/2019, 04:35] (komut) Marc_Delgado(1404): /afk
+[16/11/2019, 04:35] (komut) Orkun(17): /git 3
+[16/11/2019, 04:35] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:35] (komut) Orkun(17): /git 3
+[16/11/2019, 04:35] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:35] (komut) Darly(32): /git interior
+[16/11/2019, 04:35] (komut) Marc_Delgado(1404): /goto 3
+[16/11/2019, 04:35] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:35] (komut) Orkun(17): /git 3
+[16/11/2019, 04:35] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:35] (komut) Orkun(17): /git 3
+[16/11/2019, 04:35] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:36] (komut) Orkun(17): /git 3
+[16/11/2019, 04:36] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:36] (komut) Marc_Delgado(1404): /yzirhver 100
+[16/11/2019, 04:36] Yusuf(1404), Marc_Delgado(1404) adlý kiþinin zýrhýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:36] (komut) Darly(32): /git interior
+[16/11/2019, 04:36] (komut) Marc_Delgado(1404): /goto 3
+[16/11/2019, 04:36] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:36] (komut) Biddy_Boelter(1): /ahelp
+[16/11/2019, 04:36] (komut) Marc_Delgado(1404): /aduty
+[16/11/2019, 04:36] Darly(32), Orkun(17) tarafýndan öldürüldü. (sebep: 31)
+[16/11/2019, 04:36] (komut) Yusuf(1404): /asilhver 
+[16/11/2019, 04:36] (komut) Darly(32): /git interior
+[16/11/2019, 04:36] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:36] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:36] (komut) Biddy_Boelter(1): /asahipsiz
+[16/11/2019, 04:36] (komut) Orkun(17): /git 3
+[16/11/2019, 04:36] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:36] (komut) Yusuf(1404): /yzirhver 100
+[16/11/2019, 04:36] Yusuf(1404), Orkun(17) adlý kiþinin zýrhýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:36] Yusuf(1404), Yusuf(1404) adlý kiþinin zýrhýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:36] (komut) Darly(32): /git interior
+[16/11/2019, 04:36] (komut) Orkun(17): /git 3
+[16/11/2019, 04:36] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:36] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:36] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:36] (komut) Yusuf(1404): /silahver
+[16/11/2019, 04:36] (komut) Orkun(17): /git 3
+[16/11/2019, 04:36] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:36] (komut) Yusuf(1404): /asilahver
+[16/11/2019, 04:36] (komut) Darly(32): /git interior
+[16/11/2019, 04:36] (komut) Orkun(17): /sit2
+[16/11/2019, 04:36] (komut) Yusuf(1404): /asilahver 2 24 9999
+[16/11/2019, 04:36] (komut) Orkun(17): /sit 2
+[16/11/2019, 04:36] (komut) Yusuf(1404): /asilahver 2 24 70
+[16/11/2019, 04:36] Yusuf(1404), Yusuf(1404) adlý kiþiye Desert Eagle model silah verdi.
+[16/11/2019, 04:36] (komut) Orkun(17): /git 3
+[16/11/2019, 04:36] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:36] (komut) Yusuf(1404): /asilahver 2 24 70
+[16/11/2019, 04:36] Yusuf(1404), Yusuf(1404) adlý kiþiye Desert Eagle model silah verdi.
+[16/11/2019, 04:36] (komut) Yusuf(1404): /asilahver 2 24 70
+[16/11/2019, 04:36] Yusuf(1404), Yusuf(1404) adlý kiþiye Desert Eagle model silah verdi.
+[16/11/2019, 04:36] (komut) Yusuf(1404): /asilahver 2 24 70
+[16/11/2019, 04:36] Yusuf(1404), Yusuf(1404) adlý kiþiye Desert Eagle model silah verdi.
+[16/11/2019, 04:36] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:36] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:36] (komut) Darly(32): /git interior
+[16/11/2019, 04:37] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:37] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:37] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:37] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:37] (komut) Orkun(17): /git 3
+[16/11/2019, 04:37] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:37] (komut) Darly(32): /git interior
+[16/11/2019, 04:37] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:37] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:37] (komut) Orkun(17): /git 3
+[16/11/2019, 04:37] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:37] (komut) Darly(32): /git interior
+[16/11/2019, 04:37] (komut) Darly(32): /git interior
+[16/11/2019, 04:37] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:37] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:37] (komut) Orkun(17): /git 3
+[16/11/2019, 04:37] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:37] (komut) Darly(32): /git interior
+[16/11/2019, 04:37] (komut) Darly(32): /git interior
+[16/11/2019, 04:37] (komut) Orkun(17): /git 3
+[16/11/2019, 04:37] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:37] (komut) Darly(32): /git interior
+[16/11/2019, 04:37] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:37] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:37] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:37] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:37] (komut) Orkun(17): /git 3
+[16/11/2019, 04:37] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:37] (komut) Darly(32): /git interior
+[16/11/2019, 04:37] (komut) Yusuf(1404): /ycanver 100
+[16/11/2019, 04:37] Yusuf(1404), Orkun(17) adlý kiþinin canýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:37] Yusuf(1404), Yusuf(1404) adlý kiþinin canýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:37] Yusuf(1404), Orkun(17) tarafýndan öldürüldü. (sebep: 31)
+[16/11/2019, 04:37] (komut) Orkun(17): /git 3
+[16/11/2019, 04:37] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:37] (komut) Yusuf(1404): /asilahver 2 24 70
+[16/11/2019, 04:37] Yusuf(1404), Yusuf(1404) adlý kiþiye Desert Eagle model silah verdi.
+[16/11/2019, 04:37] (komut) Darly(32): /git interior
+[16/11/2019, 04:37] (komut) Yusuf(1404): /asilahver 2 24 70
+[16/11/2019, 04:37] Yusuf(1404), Yusuf(1404) adlý kiþiye Desert Eagle model silah verdi.
+[16/11/2019, 04:37] (komut) Yusuf(1404): /asilahver 2 24 70
+[16/11/2019, 04:37] Yusuf(1404), Yusuf(1404) adlý kiþiye Desert Eagle model silah verdi.
+[16/11/2019, 04:37] (komut) Yusuf(1404): /ysilahver 100
+[16/11/2019, 04:37] (komut) Yusuf(1404): /goto 3
+[16/11/2019, 04:37] Yusuf(1404), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:38] (komut) Orkun(17): /git 3
+[16/11/2019, 04:38] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:38] Orkun(17), Yusuf(1404) tarafýndan öldürüldü. (sebep: 24)
+[16/11/2019, 04:38] (komut) Orkun(17): /git 3
+[16/11/2019, 04:38] Orkun(17), Darly(32) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:38] (komut) Yusuf(1404): /ycanver 100
+[16/11/2019, 04:38] Yusuf(1404), Orkun(17) adlý kiþinin canýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:38] Yusuf(1404), Yusuf(1404) adlý kiþinin canýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:38] Yusuf(1404), Darly(32) adlý kiþinin canýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:38] Sucre_Zaragoza(25.5.84.199) oyundan çýkýþ yaptý.
+[16/11/2019, 04:38] Allen_Hox(255.255.255.255) oyundan çýkýþ yaptý.
+[16/11/2019, 04:38] (komut) Biddy_Boelter(1): /n .
+[16/11/2019, 04:38] [newbie] Oyuncu Berkay: .
+[16/11/2019, 04:38] (komut) Yusuf(1404): /goto 0
+[16/11/2019, 04:38] Yusuf(1404), Biddy_Boelter(1) adlý kiþiye ýþýnlandý.
+[16/11/2019, 04:38] (komut) Biddy_Boelter(1): /n newbieeeeeeeeeeð
+[16/11/2019, 04:38] [newbie] Oyuncu Berkay: newbieeeeeeeeeeð
+[16/11/2019, 04:38] (komut) Yusuf(1404): /n
+[16/11/2019, 04:38] (komut) Yusuf(1404): /n s
+[16/11/2019, 04:38] [newbie] Management Yusuf: s
+[16/11/2019, 04:38] (komut) Biddy_Boelter(1): /sorusor
+[16/11/2019, 04:38] (komut) Biddy_Boelter(1): /animlist
+[16/11/2019, 04:39] (komut) Biddy_Boelter(1): /dance
+[16/11/2019, 04:39] (komut) Biddy_Boelter(1): /dance 1
+[16/11/2019, 04:39] (komut) Biddy_Boelter(1): /aim
+[16/11/2019, 04:39] (komut) Biddy_Boelter(1): /aim 1
+[16/11/2019, 04:39] (komut) Biddy_Boelter(1): /aim 2
+[16/11/2019, 04:39] (komut) Yusuf(1404): /yzirhver 100
+[16/11/2019, 04:39] Yusuf(1404), Biddy_Boelter(1) adlý kiþinin zýrhýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:39] Yusuf(1404), Yusuf(1404) adlý kiþinin zýrhýný 100 olarak deðiþtirdi.
+[16/11/2019, 04:39] (komut) Biddy_Boelter(1): /aim 3
+[16/11/2019, 04:39] (komut) Yusuf(1404): /animlist
+[16/11/2019, 04:39] (komut) Yusuf(1404): /elbow
+[16/11/2019, 04:39] (komut) Biddy_Boelter(1): /aim 1
+[16/11/2019, 04:39] (komut) Yusuf(1404): /elbow
+[16/11/2019, 04:39] (komut) Yusuf(1404): /cellin
+[16/11/2019, 04:39] (komut) Biddy_Boelter(1): /stripclub
+[16/11/2019, 04:39] (komut) Biddy_Boelter(1): /stripclub 1
+[16/11/2019, 04:39] (komut) Biddy_Boelter(1): /stripclub 2
+[16/11/2019, 04:39] (komut) Yusuf(1404): /snatch
+[16/11/2019, 04:39] (komut) Yusuf(1404): /snatch 1
+[16/11/2019, 04:40] (komut) Yusuf(1404): /snatch 2
+[16/11/2019, 04:40] (komut) Biddy_Boelter(1): /dj
+[16/11/2019, 04:40] (komut) Biddy_Boelter(1): /handsup
+[16/11/2019, 04:40] (komut) Yusuf(1404): /aim
+[16/11/2019, 04:40] (komut) Yusuf(1404): /aim 1
+[16/11/2019, 04:40] (komut) Yusuf(1404): /aim 2
+[16/11/2019, 04:40] (komut) Yusuf(1404): /aim 3
+[16/11/2019, 04:40] (komut) Biddy_Boelter(1): /hitch
+[16/11/2019, 04:40] (komut) Yusuf(1404): /aim 2
+[16/11/2019, 04:40] Biddy_Boelter(255.255.255.255) oyundan çýkýþ yaptý.
+[16/11/2019, 04:40] Marc_Delgado(255.255.255.255) oyundan çýkýþ yaptý.

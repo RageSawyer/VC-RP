@@ -1,0 +1,15 @@
+[19/11/2019, 16:41] Marc_Delgado(1404), Allen_Hox(17) adlý kiþiye $50,000 verdi.
+[19/11/2019, 21:19] Orkun, Orkun(17) adlý kiþinin bankasýndaki parayý deðiþtirdi. ($333)
+[19/11/2019, 21:19] Orkun, Orkun(17) adlý kiþinin bankasýndaki parayý deðiþtirdi. (-$961,633,963)
+[19/11/2019, 21:20] Orkun, Orkun(17) adlý kiþinin bankasýndaki parayý deðiþtirdi. ($333,333,333)
+[19/11/2019, 21:20] Orkun, Orkun(17) adlý kiþinin bankasýndaki parayý deðiþtirdi. ($0)
+[27/11/2019, 04:32] Veronica_Renfrow(2), banka hesabýndan $5,000 çekti.
+[27/11/2019, 04:33] Veronica_Renfrow(2), banka hesabýna $2,500 yatýrdý.
+[27/11/2019, 04:40] Veronica_Renfrow(2), Allen_Hox(17) adlý kiþiye $2,000 transfer etti.
+[27/11/2019, 04:41] Allen_Hox(17), Veronica_Renfrow(2) adlý kiþiye $5,000 transfer etti.
+[27/11/2019, 04:42] Allen_Hox(17), banka hesabýna $40,000 yatýrdý.
+[01/12/2019, 06:20] Biddy_Boelter(1), banka hesabýndan $500 çekti.
+[01/12/2019, 06:20] Biddy_Boelter(1), banka hesabýna $15,000 yatýrdý.
+[01/12/2019, 06:20] Biddy_Boelter(1), banka hesabýndan $261,000 çekti.
+[20/01/2020, 14:38] Clara_Sherwood(10), banka hesabýndan $44 çekti.
+[20/01/2020, 14:38] Clara_Sherwood(10), banka hesabýna $555 yatýrdý.

@@ -1,0 +1,2 @@
+[20/01/2020, 04:06] Clara_Sherwood(10), bir iþyeri satýn aldý. (SQL: 7)
+[26/09/2022, 15:09] Rage_Sawyer(1), bir iþyeri satýn aldý. (SQL: 1)

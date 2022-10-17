@@ -1,0 +1,11 @@
+[23/11/2019, 20:36] (3) bir meslek noktasýný oluþturdu.
+[23/11/2019, 20:36] (3) bir meslek noktasýný sildi.
+[23/11/2019, 20:37] (3) bir meslek noktasýný oluþturdu.
+[23/11/2019, 20:38] (3) bir mesleðin türünü deðiþtirdi. (ID: 17 | Tür: Tamirci)
+[23/11/2019, 20:38] (3) bir meslek noktasýný sildi.
+[28/01/2020, 14:47] (10) bir meslek noktasýný oluþturdu.
+[28/01/2020, 14:47] (10) bir mesleðin türünü deðiþtirdi. (ID: 3 | Tür: Madenci)
+[26/09/2022, 14:57] 
+(1) bir meslek noktasýný oluþturdu.
+[26/09/2022, 14:57] 
+(1) bir mesleðin türünü deðiþtirdi. (ID: 1 | Tür: Kamyon Þöförü)

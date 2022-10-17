@@ -1,0 +1,4 @@
+[19/11/2019, 22:12] Darly(32), bir gate sildi. (SAHIP SQLID: 46)
+[23/11/2019, 15:07] Berkay(3), bir gate oluþturdu. (ID: 0)
+[23/11/2019, 15:07] Berkay(3), Michael_Sherwood(3) adlý kiþiyi gate sahibi yaptý. (ID: 34)
+[23/11/2019, 15:08] Michael_Sherwood(3), kendine ait bir gateyi sildi.

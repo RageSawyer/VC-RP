@@ -1,0 +1,6 @@
+[16/11/2019, 04:18] Orkun listeden suç sildi. (SID: 64 | Ýsim: Cinayet)
+[16/11/2019, 04:19] Berkay listeden suç sildi. (SID: 54 | Ýsim: Ýzinsiz Giriþ)
+[16/11/2019, 04:19] Orkun listeye bir suc ekledi. (SID: 54 | Ýsim: Cinayet | Dakika: 30)
+[16/11/2019, 04:19] Darly listeye bir suc ekledi. (SID: 64 | Ýsim: 1 | Dakika: 30)
+[16/11/2019, 04:19] Yusuf listeye bir suc ekledi. (SID: 0 | Ýsim: Terorizm | Dakika: 999999999)
+[16/11/2019, 04:19] Yusuf listeden suç sildi. (SID: 71 | Ýsim: Terorizm)

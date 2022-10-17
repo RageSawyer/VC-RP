@@ -1,0 +1,198 @@
+[13/06/2019, 17:26] [ADM] Burak(4), Addy_Blackwell(4) adlý kiþiyi Blackwell Corp birlik lideri yaptý.
+[13/06/2019, 17:27] [ADM] Burak, Addy_Blackwell(4) adlý kiþiye 5 rütbesini verdi. (birlik: Blackwell Corp)
+[13/06/2019, 17:27] [ADM] Burak, Addy_Blackwell(4) adlý kiþiye 3 rütbesini verdi. (birlik: Blackwell Corp)
+[25/06/2019, 17:10] [ADM] berkay(1), Biddy_Boelter(1) adlý kiþiyi Los Santos Medical Department birlik lideri yaptý.
+[05/07/2019, 19:12] [ADM]Berkay(3) birlik onayý düzenledi. (ID: 79 / Yarýþçý: var)
+[07/07/2019, 03:16] [ADM]Berkay(3) birlik türünü deðiþtirdi. (ID: 79 / Tur: Haber Ajansý)
+[07/07/2019, 03:16] [ADM]Berkay(3) birlik türünü deðiþtirdi. (ID: 79 / Tur: Haber Ajansý)
+[07/07/2019, 03:17] [ADM]Berkay(3) birliðin dolap yerini deðiþtirdi. (ID: 79 / isim: Sherwood's Crew)
+[07/07/2019, 03:17] Michael_Sherwood(3), Michael_Sherwood(3) adlý kiþi tarafýndan birime alýndý. (birim: Yayýn)
+[07/07/2019, 03:24] Michael_Sherwood(3), Michael_Sherwood(3) adlý kiþi tarafýndan birime alýndý. (birim: Yay?n)
+[13/11/2019, 14:12] [ADM] Berkay(1), Biddy_Boelter(1) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[18/11/2019, 23:44] [ADM] Darly(32), Sucre_Zaragoza(32) adlý kiþiyi Devil's Path birlik lideri yaptý.
+[18/11/2019, 23:44] [ADM] Darly(32), Sucre_Zaragoza(32) adlý kiþiyi Los Santos Medical Department birlik lideri yaptý.
+[18/11/2019, 23:44] [ADM] Darly(32), Sucre_Zaragoza(32) adlý kiþiyi Hox Company birlik lideri yaptý.
+[18/11/2019, 23:44] [ADM] Darly(32), Sucre_Zaragoza(32) adlý kiþiyi Government birlik lideri yaptý.
+[18/11/2019, 23:44] [ADM] Darly(32), Sucre_Zaragoza(32) adlý kiþiyi Federal Bureau Of Investigation birlik lideri yaptý.
+[18/11/2019, 23:44] [ADM] Darly(32), Sucre_Zaragoza(32) adlý kiþiyi Los Santos Medya birlik lideri yaptý.
+[18/11/2019, 23:45] [ADM] Darly(32), Sucre_Zaragoza(32) adlý kiþiyi Caponigro Kumarhanesi birlik lideri yaptý.
+[18/11/2019, 23:45] [ADM] Darly(32), Sucre_Zaragoza(32) adlý kiþiyi Red Street Hooligan's birlik lideri yaptý.
+[18/11/2019, 23:45] [ADM] Darly(32), Sucre_Zaragoza(32) adlý kiþiyi Idlewood St. Disciples birlik lideri yaptý.
+[18/11/2019, 23:45] [ADM] Darly(32), Sucre_Zaragoza(32) adlý kiþiyi Downtown Cab Company birlik lideri yaptý.
+[18/11/2019, 23:45] [ADM] Darly(32), Sucre_Zaragoza(32) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[19/11/2019, 03:13] Sucre_Zaragoza(32) bir birlik kurdu. (ID: 0 | Isim: ROWA)
+[19/11/2019, 03:15] Sucre_Zaragoza(32) kendi birliðini sildi. (ROWA)
+[19/11/2019, 03:15] Sucre_Zaragoza(32) bir birlik kurdu. (ID: 0 | Isim: ROWA)
+[19/11/2019, 03:16] Sucre_Zaragoza(32) kendi birliðini sildi. (ROWA)
+[19/11/2019, 16:54] [ADM] 666(1404), Marc_Delgado(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 49 / isim: Devil's Path)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 102 / isim: Hox Company)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 33 / isim: Caponigro Kumarhanesi)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 92 / isim: Red Street Hooligan's)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 101 / isim: Idlewood St. Disciples)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 38 / isim: Downtown Cab Company)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 39 / isim: L.S. Dharma Cartel)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 59 / isim: Cavalries)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 87 / isim: The Bulls Express)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 86 / isim: Lueders Park Piru)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 44 / isim: Anarchist Youth Society)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 53 / isim: Solntsevskaya Bratva)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 54 / isim: Ambassadors of Nightmare)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 71 / isim: 38th Street Locotes)
+[19/11/2019, 20:42] [ADM]Orkun(17) bir birlik sildi. (ID: 61 / isim: Verona Varoþ Tamirhanesi)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 74 / isim: Las Colinas Family's)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 58 / isim: Harrison Organization)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 66 / isim: Piacente'nin Suç Takýmý)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 67 / isim: Thug Life Gang)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 68 / isim: AVONX 13)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 80 / isim: Willowfield Street Gang)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 73 / isim: Bostwick Tamirhanesi)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 89 / isim: Killa Code Regime Crips)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 104 / isim: Shelton S.C.)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 90 / isim: Tokers 13)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 83 / isim: White Company)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 85 / isim: Santo Ýtaliano Part Of Siegal)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 79 / isim: Dillimore's Childs)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 82 / isim: Chelyabinskaya OPG)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 84 / isim: Bellemore Suç Örgütü)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 96 / isim: Cosa Nostra)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 94 / isim: Crime Station)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 99 / isim: Dillimore Oto Garage)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 98 / isim: Cashanday Garage's)
+[19/11/2019, 20:43] [ADM]Orkun(17) bir birlik sildi. (ID: 100 / isim: El Cranéo)
+[19/11/2019, 20:44] [ADM]Orkun(17) bir birlik sildi. (ID: 103 / isim: La Volgodravcya CL)
+[19/11/2019, 20:44] [ADM]Orkun(17) bir birlik sildi. (ID: 105 / isim: La Volvogdracya CL-5)
+[19/11/2019, 20:44] [ADM]Orkun(17) bir birliðin ismini deðiþtirdi. (SID: 32 / isim: Los Santos News)
+[19/11/2019, 20:45] [ADM]Orkun(17) bir birliðin ismini deðiþtirdi. (SID: 11 / isim: Los Santos Fire and Medical Dep)
+[19/11/2019, 22:16] [ADM] Orkun(17), Orkun(17) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[19/11/2019, 22:16] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: Owen_Coleman)
+[19/11/2019, 22:17] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: Lucas_Marcel)
+[19/11/2019, 22:17] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: Juessa_Ivanov)
+[19/11/2019, 22:17] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: Chuck_Warner)
+[19/11/2019, 22:17] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: April_Castiglione)
+[19/11/2019, 22:17] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: Adolph_Swagger)
+[19/11/2019, 22:17] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: Adam_Constantine)
+[19/11/2019, 22:17] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: Brian_Radcliffe)
+[19/11/2019, 22:17] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: Michael_Torres)
+[19/11/2019, 22:17] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: Ursula_Wahkan)
+[19/11/2019, 22:17] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: Gary_Rogers)
+[19/11/2019, 22:18] [ADM] 666(1404), Darly(32) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[19/11/2019, 22:23] [ADM] 666(1404), Darly(32) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[19/11/2019, 22:23] [ADM] 666(1404), Marc_Delgado(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[19/11/2019, 22:26] Marc_Delgado(1404), Darly(32) tarafýndan birliðe dahil edildi. (birlik: Los Santos Police Department)
+[19/11/2019, 22:27] [ADM] 666(1404), Marc_Delgado(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[19/11/2019, 22:30] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 04:42] [ADM]Berkay(1) bir birlik yarattý. (SID: 0 / isim: Row)
+[23/11/2019, 04:43] [ADM] Berkay(1), Biddy_Boelter(1) adlý kiþiyi Row birlik lideri yaptý.
+[23/11/2019, 04:43] [ADM]Berkay(1) birlik onayý düzenledi. (ID: 108 / Uyuþturucu: var)
+[23/11/2019, 04:44] [ADM]Berkay(1) birlik türünü deðiþtirdi. (ID: 108 / Tur: Ýllegal)
+[23/11/2019, 14:57] [ADM]Berkay(1) bir birliðin levelini deðiþtirdi. (ID: 32 / Level: 6)
+[23/11/2019, 14:58] [ADM]Berkay(1) bir birliðin levelini deðiþtirdi. (ID: 32 / Level: 6)
+[23/11/2019, 14:58] [ADM]Berkay(1) bir birliðin levelini deðiþtirdi. (ID: 108 / Level: 6)
+[23/11/2019, 20:01] [ADM] Darly(32), Alexander_Mahone(32) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 20:26] [ADM] Darly(32), Alexander_Mahone(32) adlý kiþiyi Los Santos Fire and Medical Dep birlik lideri yaptý.
+[23/11/2019, 20:32] [ADM] Darly(32), Alexander_Mahone(32) adlý kiþiyi Row birlik lideri yaptý.
+[23/11/2019, 20:32] [ADM] Darly(32), Alexander_Mahone(32) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 20:32] [ADM] Orkun(17), Orkun(17) adlý kiþiyi Los Santos Fire and Medical Dep birlik lideri yaptý.
+[23/11/2019, 20:32] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: Kevin_Lewis)
+[23/11/2019, 20:33] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: Lydia_Cavanagh)
+[23/11/2019, 20:33] Orkun, ~Allen_Hox adlý kiþiyi birlikten attý. (birlik: Steven_Munoz)
+[23/11/2019, 20:33] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Los Santos Fire and Medical Dep birlik lideri yaptý.
+[23/11/2019, 20:33] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Row birlik lideri yaptý.
+[23/11/2019, 20:33] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:37] [ADM] kelly(54), Yusuf(42) adlý kiþiyi Row birlik lideri yaptý.
+[23/11/2019, 23:37] [ADM] Orkun(17), Yusuf(42) adlý kiþiyi Row birlik lideri yaptý.
+[23/11/2019, 23:37] [ADM] kelly(54), Yusuf(42) adlý kiþiyi Los Santos Fire and Medical Dep birlik lideri yaptý.
+[23/11/2019, 23:37] [ADM] Orkun(17), Yusuf(42) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:37] [ADM] kelly(54), Yusuf(42) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:38] [ADM] Deneme2(15), Deneme2(15) adlý kiþiyi Government birlik lideri yaptý.
+[23/11/2019, 23:38] [ADM] Deneme2(15), Deneme2(15) adlý kiþiyi Los Santos Fire and Medical Dep birlik lideri yaptý.
+[23/11/2019, 23:38] [ADM] Deneme2(15), Deneme2(15) adlý kiþiyi Row birlik lideri yaptý.
+[23/11/2019, 23:38] [ADM] Deneme2(15), Deneme2(15) adlý kiþiyi Federal Bureau Of Investigation birlik lideri yaptý.
+[23/11/2019, 23:38] [ADM] Deneme2(15), Deneme2(15) adlý kiþiyi Los Santos News birlik lideri yaptý.
+[23/11/2019, 23:38] [ADM] Deneme2(15), Deneme2(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:39] Jack_Hebert(683) bir birlik kurdu. (ID: 0 | Isim: Denemex)
+[23/11/2019, 23:39] Eleanor_Grint(15), Vhosta_Lezcano(42) tarafýndan birliðe dahil edildi. (birlik: Los Santos Police Department)
+[23/11/2019, 23:40] [ADM] 666(1404), 666(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:41] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:43] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:43] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:43] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:43] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:44] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Government birlik lideri yaptý.
+[23/11/2019, 23:44] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Government birlik lideri yaptý.
+[23/11/2019, 23:44] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Government birlik lideri yaptý.
+[23/11/2019, 23:44] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Government birlik lideri yaptý.
+[23/11/2019, 23:44] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Government birlik lideri yaptý.
+[23/11/2019, 23:46] [ADM] 666(1404), Vhosta_Lezcano(42) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:46] [ADM] 666(1404), Vhosta_Lezcano(42) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:46] [ADM] 666(1404), Diaz_Cooper(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:47] [ADM] kelly(54), Diaz_Cooper(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:47] [ADM] Umut(683), Diaz_Cooper(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:47] [ADM] Orkun(17), Orkun(17) adlý kiþiyi Denemex birlik lideri yaptý.
+[23/11/2019, 23:47] [ADM] Orkun(17), Umut(683) adlý kiþiyi Denemex birlik lideri yaptý.
+[23/11/2019, 23:48] Diaz_Cooper(1404) bir birlik kurdu. (ID: 0 | Isim: Test1)
+[23/11/2019, 23:48] [ADM]Orkun(17) bir birliðin levelini deðiþtirdi. (ID: 109 / Level: 6)
+[23/11/2019, 23:48] Diaz_Cooper(1404) kendi birliðini sildi. (Test1)
+[23/11/2019, 23:48] [ADM]Orkun(17) birlik onayý düzenledi. (ID: 109 / Silah: var)
+[23/11/2019, 23:48] [ADM]Orkun(17) birlik onayý düzenledi. (ID: 109 / Uyuþturucu: var)
+[23/11/2019, 23:48] [ADM]Orkun(17) birlik onayý düzenledi. (ID: 109 / Araç Hýrsýzlýðý: var)
+[23/11/2019, 23:48] [ADM]Orkun(17) birlik onayý düzenledi. (ID: 109 / Gasp: var)
+[23/11/2019, 23:48] [ADM]Orkun(17) birlik onayý düzenledi. (ID: 109 / Tamirci: var)
+[23/11/2019, 23:48] [ADM]Orkun(17) birlik onayý düzenledi. (ID: 109 / Yarýþçý: var)
+[23/11/2019, 23:48] [ADM]Orkun(17) birlik onayý düzenledi. (ID: 109 / Taksici: var)
+[23/11/2019, 23:48] [ADM]Orkun(17) birlik onayý düzenledi. (ID: 109 / GYM: var)
+[23/11/2019, 23:51] [ADM] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:51] Eleanor_Grint(15), Vhosta_Lezcano(42) adlý kiþi tarafýndan birime alýndý. (birim: SWAT)
+[23/11/2019, 23:52] [ADM] Umut(683), Jack_Hebert(683) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:52] [ADM] Umut(683), Jack_Hebert(683) adlý kiþiyi Denemex birlik lideri yaptý.
+[23/11/2019, 23:52] [ADM] 666(1404), Eleanor_Grint(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:52] [ADM] Orkun(17), Jesus_Cordeza(709) adlý kiþiyi Government birlik lideri yaptý.
+[23/11/2019, 23:53] [ADM] Orkun(17), Orkun(17) adlý kiþiyi Government birlik lideri yaptý.
+[23/11/2019, 23:53] [ADM] 666(1404), Eleanor_Grint(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:53] [ADM] 666(1404), Eleanor_Grint(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:53] [ADM] Orkun(17), Jesus_Cordeza(709) adlý kiþiyi Government birlik lideri yaptý.
+[23/11/2019, 23:53] [ADM] Orkun(17), Eleanor_Grint(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:54] [ADM] Deneme2(15), Jesus_Cordeza(709) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:54] [ADM] 666(1404), Umut(683) adlý kiþiyi Denemex birlik lideri yaptý.
+[23/11/2019, 23:55] [ADM] Orkun(17), Jack_Hebert(683) adlý kiþiyi Denemex birlik lideri yaptý.
+[23/11/2019, 23:55] [ADM] 666(1404), Jack_Hebert(683) adlý kiþiyi Denemex birlik lideri yaptý.
+[23/11/2019, 23:55] [ADM] 666(1404), Jack_Hebert(683) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:56] Jack_Hebert(683), Orkun(17) tarafýndan birliðe dahil edildi. (birlik: Government)
+[23/11/2019, 23:57] [ADM] 666(1404), Eleanor_Grint(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:58] [ADM] 666(1404), Eleanor_Grint(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/11/2019, 23:58] Eleanor_Grint(15), Vhosta_Lezcano(42) tarafýndan birliðe dahil edildi. (birlik: Los Santos Police Department)
+[23/11/2019, 23:58] [ADM] Orkun(17), Allen_Hox(17) adlý kiþiyi Denemex birlik lideri yaptý.
+[23/11/2019, 23:59] Jack_Hebert(683) birlikten ayrýldý. (Government)
+[23/11/2019, 23:59] Jack_Hebert(683), Allen_Hox(17) tarafýndan birliðe dahil edildi. (birlik: Denemex)
+[23/11/2019, 23:59] Allen_Hox(17) aracýný birliðe baðladý. (SID: 17 / birlik: Denemex)
+[24/11/2019, 00:01] [ADM] Orkun(17), Jack_Hebert(683) adlý kiþiyi Denemex birlik lideri yaptý.
+[24/11/2019, 00:03] [ADM] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[24/11/2019, 00:05] [ADM] 666(1404), Eleanor_Grint(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[24/11/2019, 00:10] [ADM] 666(1404), 666(1404) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[24/11/2019, 00:15] [ADM] Yusuf(42), Eleanor_Grint(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[24/11/2019, 00:15] [ADM] Yusuf(42), Eleanor_Grint(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[24/11/2019, 00:15] [ADM] Yusuf(42), Eleanor_Grint(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[24/11/2019, 00:15] [ADM] Yusuf(42), Eleanor_Grint(15) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[24/11/2019, 00:15] [ADM] Yusuf(42), Eleanor_Grint(15) adlý kiþiyi Row birlik lideri yaptý.
+[24/11/2019, 00:16] [ADM] Yusuf(42), Eleanor_Grint(15) adlý kiþiyi Row birlik lideri yaptý.
+[24/11/2019, 00:16] [ADM] Yusuf(42), Eleanor_Grint(15) adlý kiþiyi Row birlik lideri yaptý.
+[24/11/2019, 00:16] [ADM] Yusuf(42), Eleanor_Grint(15) adlý kiþiyi Los Santos Fire and Medical Dep birlik lideri yaptý.
+[24/11/2019, 00:16] [ADM] Yusuf(42), Yusuf(42) adlý kiþiyi Los Santos Fire and Medical Dep birlik lideri yaptý.
+[24/11/2019, 00:17] [ADM] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi Row birlik lideri yaptý.
+[24/11/2019, 00:17] [ADM] Deneme2(15), Eleanor_Grint(15) adlý kiþiyi Los Santos Fire and Medical Dep birlik lideri yaptý.
+[24/11/2019, 00:18] [ADM] Yusuf(42), Eleanor_Grint(15) adlý kiþiyi Government birlik lideri yaptý.
+[24/11/2019, 00:18] [ADM] Yusuf(42), Eleanor_Grint(15) adlý kiþiyi Federal Bureau Of Investigation birlik lideri yaptý.
+[24/11/2019, 00:18] [ADM] Yusuf(42), Eleanor_Grint(15) adlý kiþiyi Los Santos News birlik lideri yaptý.
+[24/11/2019, 00:18] [ADM] Yusuf(42), Brian_Warnock(42) adlý kiþiyi Los Santos News birlik lideri yaptý.
+[24/11/2019, 00:24] [ADM] Deneme2(15), Jesus_Cordeza(709) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[26/11/2019, 23:31] [ADM] Orkun(17), Allen_Hox(17) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[26/11/2019, 23:34] [ADM] Yusuf(42), Brian_Warnock(42) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[26/11/2019, 23:43] Allen_Hox(17) aracýný birliðe baðladý. (SID: 23 / birlik: Los Santos Police Department)
+[04/12/2019, 03:39] [ADM] viathegod(2), Veronica_Renfrow(2) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[06/12/2019, 04:12] [ADM] viathegod(2), Veronica_Renfrow(2) adlý kiþiyi Los Santos News birlik lideri yaptý.
+[08/02/2020, 06:34] [ADM] via(245), Micheal_Sherwood(245) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[11/02/2020, 08:00] [ADM]via(10) birlik onayý düzenledi. (ID: 2 / Graffiti: var)
+[11/02/2020, 08:00] [ADM] via(10), Clara_Sherwood(10) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/02/2020, 05:25] [ADM] via(10), James_Sherwood(10) adlý kiþiyi Los Santos Police Department birlik lideri yaptý.
+[23/02/2020, 05:29] [ADM] via(10), James_Sherwood(10) adlý kiþiyi Los Santos Medical Department birlik lideri yaptý.

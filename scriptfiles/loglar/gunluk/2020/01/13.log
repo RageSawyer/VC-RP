@@ -1,0 +1,43 @@
+[13/01/2020, 05:18] 001(127.0.0.1) sunucuya giriþ yaptý.
+[13/01/2020, 05:19] (komut) Berkay_Test(2): /aisyeri olustur
+[13/01/2020, 05:19] Berkay(2), bir iþyeri oluþturdu. (SID: 0)
+[13/01/2020, 05:19] (komut) Berkay_Test(2): /aisyeri 1 tur 3
+[13/01/2020, 05:19] Berkay(2), iþyeri türünü Elektronik yaptý. (SID: 2)
+[13/01/2020, 05:19] (komut) Berkay_Test(2): /aisyeri 1 durum 1
+[13/01/2020, 05:19] (komut) Berkay_Test(2): /aisyeri 1 sahip 0,
+[13/01/2020, 05:19] (komut) Berkay_Test(2): /aisyeri 1 sahip 0
+[13/01/2020, 05:19] Berkay(2), iþyeri sahibini deðiþtirdi. (SID: 2 | Sahip: 66)
+[13/01/2020, 05:19] (komut) Berkay_Test(2): /satinal
+[13/01/2020, 05:22] 001(127.0.0.1) sunucuya giriþ yaptý.
+[13/01/2020, 05:23] (komut) Berkay_Test(2): /satinal
+[13/01/2020, 05:24] 001(127.0.0.1) sunucuya giriþ yaptý.
+[13/01/2020, 05:24] (komut) Berkay_Test(2): /paraduzenle
+[13/01/2020, 05:24] (komut) Berkay_Test(2): /aparaduzenle 0 0
+[13/01/2020, 05:24] (komut) Berkay_Test(2): /aparaduzenle 0 1
+[13/01/2020, 05:24] Berkay(2), Berkay_Test(2) adlý kiþinin parasýný $1 olarak düzenledi.
+[13/01/2020, 05:24] (komut) Berkay_Test(2): /satinal
+[13/01/2020, 11:46] 001(127.0.0.1) sunucuya giriþ yaptý.
+[13/01/2020, 11:46] (komut) Berkay_Test(2): /satinal
+[13/01/2020, 11:48] 001(127.0.0.1) sunucuya giriþ yaptý.
+[13/01/2020, 11:48] (komut) Berkay_Test(2): /OOCMARKET
+[13/01/2020, 11:48] (komut) Berkay_Test(2): /BAKiyever
+[13/01/2020, 11:48] (komut) Berkay_Test(2): /BAKiyever 0 15
+[13/01/2020, 11:48] Berkay(2), Berkay_Test(2) adlý kiþiye 15TL bakiye verdi.
+[13/01/2020, 11:48] (komut) Berkay_Test(2): /OOCMARKET
+[13/01/2020, 11:48] Berkay_Test(2) marketten Baþlangýç Paketi satýn aldý.
+[13/01/2020, 11:49] (komut) Berkay_Test(2): /karaktersec
+[13/01/2020, 11:49] Berkay_Test(127.0.0.1) oyundan çýkýþ yaptý.
+[13/01/2020, 11:49] 001(127.0.0.1) sunucuya giriþ yaptý.
+[13/01/2020, 11:49] Clara Sherwood(HESAP ID: 1) teleport hilesi kullanýyor olabilir. (#019)
+[13/01/2020, 11:54] (komut) Clara_Sherwood(3): /karaktersec
+[13/01/2020, 11:54] Clara_Sherwood(127.0.0.1) oyundan çýkýþ yaptý.
+[13/01/2020, 11:54] 001(127.0.0.1) sunucuya giriþ yaptý.
+[13/01/2020, 11:54] (komut) Clara_Sherwood(3): /bakiyever 0 15
+[13/01/2020, 11:54] Berkay(3), Clara_Sherwood(3) adlý kiþiye 15TL bakiye verdi.
+[13/01/2020, 11:54] (komut) Clara_Sherwood(3): /oocmarket
+[13/01/2020, 11:54] Clara_Sherwood(3) marketten Baþlangýç Paketi satýn aldý.
+[13/01/2020, 11:59] (komut) Clara_Sherwood(3): /restart 1 1
+[13/01/2020, 11:59] 001(127.0.0.1) oyundan çýkýþ yaptý.
+[13/01/2020, 11:59] 001(127.0.0.1) sunucuya giriþ yaptý.
+[13/01/2020, 11:59] (komut) Clara_Sherwood(3): /git ls
+[13/01/2020, 11:59] (komut) Clara_Sherwood(3): /satinal
