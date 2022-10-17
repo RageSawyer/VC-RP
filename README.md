@@ -15,6 +15,6 @@ Merhaba, ben Emre bilen bilir bu mod 2020 zamanları @Rubiacce tarafından payla
   * Sunucuya kayıt olduğumuzda mSelection ile skin seçmeniz gerekiyor buda Scriptfiles klasöründeki bir .txt den çekiliyor bu veriyi çekemediği için sorunluydu düzeltildi.
 
 
-
+```
 Daha sayamadığım birçok hata düzeltildi tabi bu güncellemeler 2020 yılı içerisinde yapıldı bunuda göz önünde bulundurun derim.
-
+```
